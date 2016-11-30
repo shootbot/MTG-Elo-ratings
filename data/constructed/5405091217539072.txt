@@ -1,0 +1,33 @@
+Round 1
+1	
+Timba vs Slava
+Timba wins 2-1
+2	
+Lena vs Sula
+Lena wins 2-1
+3	
+Altair vs Spawn
+Altair wins 2-0
+Edit
+Round 2
+1	
+Lena (3 pts) vs Altair (3 pts)
+Altair wins 2-1
+2	
+Timba (3 pts) vs Spawn (0 pts)
+Timba wins 2-0
+3	
+Slava (0 pts) vs Sula (0 pts)
+Sula wins 2-0
+Edit
+Round 3
+1	
+Timba (6 pts) vs Altair (6 pts)
+Timba wins 2-0
+2	
+Sula (3 pts) vs Spawn (0 pts)
+Spawn wins 2-0
+3	
+Lena (3 pts) vs Slava (0 pts)
+Lena wins 2-1
+Edit

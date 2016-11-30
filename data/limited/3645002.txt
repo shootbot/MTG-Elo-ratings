@@ -1,0 +1,30 @@
+Round 1
+1	
+altair vs dauren
+dauren wins 2-0
+2	
+vladimir vs daulet
+vladimir wins 2-0
+3	
+slava vs --- Bye ---
+Edit
+Round 2
+1	
+vladimir (3 pts) vs slava (3 pts)
+vladimir wins 2-0
+2	
+dauren (3 pts) vs daulet (0 pts)
+dauren wins 2-0
+3	
+altair (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+vladimir (6 pts) vs dauren (6 pts)
+vladimir wins 2-0
+2	
+altair (3 pts) vs slava (3 pts)
+slava wins 2-0
+3	
+daulet (0 pts) vs --- Bye ---
+Edit

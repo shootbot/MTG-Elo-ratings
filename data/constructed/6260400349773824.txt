@@ -1,0 +1,68 @@
+Round 1
+1	
+Sula vs Lena
+Lena wins 2-0
+2	
+Aibek vs Altair
+Altair wins 1-0
+3	
+Aset vs Daulet
+Aset wins 2-0
+4	
+Vovan vs Adiko
+Vovan wins 2-0
+5	
+Il'ka vs Timba
+Timba wins 2-1
+Edit
+Round 2
+1	
+Vovan (3 pts) vs Lena (3 pts)
+Vovan wins 2-1
+2	
+Altair (3 pts) vs Timba (3 pts)
+Altair wins 2-0
+3	
+Aset (3 pts) vs Il'ka (0 pts)
+Aset wins 2-0
+4	
+Sula (0 pts) vs Daulet (0 pts)
+Sula wins 2-1
+5	
+Aibek (0 pts) vs Adiko (0 pts)
+Aibek wins 2-0
+Edit
+Round 3
+1	
+Vovan (6 pts) vs Altair (6 pts)
+Vovan wins 2-0
+2	
+Aset (6 pts) vs Lena (3 pts)
+Lena wins 2-0
+3	
+Aibek (3 pts) vs Timba (3 pts)
+Timba wins 2-0
+4	
+Sula (3 pts) vs Il'ka (0 pts)
+Sula wins 2-0
+5	
+Daulet (0 pts) vs Adiko (0 pts)
+Daulet wins 2-0
+Edit
+Round 4
+1	
+Aset (6 pts) vs Vovan (9 pts)
+Vovan wins 2-1
+2	
+Lena (6 pts) vs Altair (6 pts)
+Lena wins 2-0
+3	
+Sula (6 pts) vs Timba (6 pts)
+Sula wins 2-0
+4	
+Aibek (3 pts) vs Daulet (3 pts)
+Aibek wins 2-0
+5	
+Il'ka (0 pts) vs Adiko (0 pts)
+Il'ka wins 2-0
+Edit

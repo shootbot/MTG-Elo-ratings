@@ -1,0 +1,54 @@
+Round 1
+1	
+Вова vs Илька
+Вова wins 2-1
+2	
+Дарк vs Тима
+Дарк wins 2-0
+3	
+Данияр vs Наурыз
+Данияр wins 2-0
+4	
+Даулет vs Андан
+Андан wins 2-1
+Edit
+Round 2
+1	
+Вова (3 pts) vs Данияр (3 pts)
+Данияр wins 2-1
+2	
+Дарк (3 pts) vs Андан (3 pts)
+Дарк wins 2-1
+3	
+Илька (0 pts) vs Наурыз (0 pts)
+Илька wins 2-0
+4	
+Даулет (0 pts) vs Тима (0 pts)
+Тима wins 2-0
+Edit
+Round 3
+1	
+Дарк (6 pts) vs Данияр (6 pts)
+Данияр wins 2-0
+2	
+Вова (3 pts) vs Андан (3 pts)
+Вова wins 2-1
+3	
+Илька (3 pts) vs Тима (3 pts)
+Тима wins 2-1
+4	
+Даулет (0 pts) vs Наурыз (0 pts)
+Даулет wins 2-0
+Edit
+Round 4
+1	
+Данияр (9 pts) vs Тима (6 pts)
+Данияр wins 2-1
+2	
+Вова (6 pts) vs Даулет (3 pts)
+Вова wins 2-0
+3	
+Илька (3 pts) vs Андан (3 pts)
+Илька wins 2-1
+4	
+Наурыз (0 pts) vs --- Bye ---

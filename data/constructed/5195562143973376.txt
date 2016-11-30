@@ -1,0 +1,33 @@
+Round 1
+1	
+Данияр vs Даулет
+Даулет wins 2-1
+2	
+Альтаир vs Вова
+Вова wins 2-0
+3	
+Саша vs Тима
+Тима wins 2-0
+Edit
+Round 2
+1	
+Даулет (3 pts) vs Тима (3 pts)
+Тима wins 2-0
+2	
+Данияр (0 pts) vs Вова (3 pts)
+Вова wins 1-0
+3	
+Альтаир (0 pts) vs Саша (0 pts)
+Альтаир wins 2-0
+Edit
+Round 3
+1	
+Вова (6 pts) vs Тима (6 pts)
+Тима wins 2-0
+2	
+Альтаир (3 pts) vs Даулет (3 pts)
+Альтаир wins 2-0
+3	
+Данияр (0 pts) vs Саша (0 pts)
+Данияр wins 2-0
+Edit

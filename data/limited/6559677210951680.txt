@@ -1,0 +1,68 @@
+Round 1
+1	
+Daulet vs Sula
+Daulet wins 2-1
+2	
+Slava vs Alex
+Alex wins 2-0
+3	
+Aibek vs Nauriz
+Aibek wins 2-1
+4	
+Spawn vs Rex
+Spawn wins 2-0
+5	
+Dark vs Dauren
+Dark wins 2-1
+Edit
+Round 2
+1	
+Daulet (3 pts) vs Dark (3 pts)
+Dark wins 2-0
+2	
+Aibek (3 pts) vs Spawn (3 pts)
+Aibek wins 2-0
+3	
+Alex (3 pts) vs Dauren (0 pts)
+Dauren wins 2-0
+4	
+Slava (0 pts) vs Rex (0 pts)
+Draw 1-1
+5	
+Sula (0 pts) vs Nauriz (0 pts)
+Draw 1-1
+Edit
+Round 3
+1	
+Aibek (6 pts) vs Dark (6 pts)
+Draw 1-1
+2	
+Spawn (3 pts) vs Dauren (3 pts)
+Spawn wins 2-0
+3	
+Daulet (3 pts) vs Alex (3 pts)
+Daulet wins 2-0
+4	
+Nauriz (1 pts) vs Rex (1 pts)
+Nauriz wins 2-0
+5	
+Slava (1 pts) vs Sula (1 pts)
+Slava wins 2-1
+Edit
+Round 4
+1	
+Daulet (6 pts) vs Aibek (7 pts)
+Aibek wins 2-1
+2	
+Spawn (6 pts) vs Dark (7 pts)
+Dark wins 2-1
+3	
+Slava (4 pts) vs Nauriz (4 pts)
+Nauriz wins 2-1
+4	
+Sula (1 pts) vs Alex (3 pts)
+Alex wins 2-0
+5	
+Rex (1 pts) vs Dauren (3 pts)
+Dauren wins 2-0
+Edit

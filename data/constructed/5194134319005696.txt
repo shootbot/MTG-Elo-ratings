@@ -1,0 +1,42 @@
+Round 1
+1	
+Altair vs Aset
+Altair wins 2-1
+2	
+Il'ka vs Ablai
+Il'ka wins 2-0
+3	
+Daniyar vs Timba
+Daniyar wins 2-1
+4	
+Lena vs Vovan
+Vovan wins 2-0
+Edit
+Round 2
+1	
+Altair (3 pts) vs Daniyar (3 pts)
+Daniyar wins 2-0
+2	
+Il'ka (3 pts) vs Vovan (3 pts)
+Il'ka wins 2-0
+3	
+Aset (0 pts) vs Timba (0 pts)
+Timba wins 2-1
+4	
+Lena (0 pts) vs Ablai (0 pts)
+Lena wins 2-1
+Edit
+Round 3
+1	
+Il'ka (6 pts) vs Daniyar (6 pts)
+Draw 1-1
+2	
+Altair (3 pts) vs Vovan (3 pts)
+Vovan wins 2-0
+3	
+Lena (3 pts) vs Timba (3 pts)
+Draw 1-1
+4	
+Aset (0 pts) vs Ablai (0 pts)
+Aset wins 2-0
+Edit

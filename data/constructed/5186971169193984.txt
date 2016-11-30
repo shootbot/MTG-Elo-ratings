@@ -1,0 +1,42 @@
+Round 1
+1	
+Сула vs Асет
+Сула wins 2-0
+2	
+Даулет vs Айбек
+Даулет wins 2-1
+3	
+Вова vs Наурыз
+Вова wins 2-0
+4	
+Марат vs Влад
+Влад wins 2-0
+Edit
+Round 2
+1	
+Сула (3 pts) vs Вова (3 pts)
+Сула wins 2-0
+2	
+Даулет (3 pts) vs Влад (3 pts)
+Даулет wins 2-1
+3	
+Марат (0 pts) vs Айбек (0 pts)
+Айбек wins 2-1
+4	
+Асет (0 pts) vs Наурыз (0 pts)
+Draw 1-1
+Edit
+Round 3
+1	
+Сула (6 pts) vs Даулет (6 pts)
+Даулет wins 2-0
+2	
+Вова (3 pts) vs Айбек (3 pts)
+Айбек wins 2-1
+3	
+Наурыз (1 pts) vs Влад (3 pts)
+Наурыз wins 2-1
+4	
+Марат (0 pts) vs Асет (1 pts)
+Марат wins 2-1
+Edit

@@ -1,0 +1,39 @@
+Round 1
+1	
+Асет vs Илька
+Илька wins 2-1
+2	
+Алекс vs Дарк
+Алекс wins 2-1
+3	
+Альтаир vs Айбек
+Айбек wins 2-0
+4	
+Наурыз vs --- Bye ---
+Edit
+Round 2
+1	
+Илька (3 pts) vs Айбек (3 pts)
+Илька wins 2-1
+2	
+Алекс (3 pts) vs Наурыз (3 pts)
+Алекс wins 2-0
+3	
+Асет (0 pts) vs Альтаир (0 pts)
+Альтаир wins 2-0
+4	
+Дарк (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Алекс (6 pts) vs Илька (6 pts)
+Илька wins 2-0
+2	
+Наурыз (3 pts) vs Айбек (3 pts)
+Айбек wins 2-0
+3	
+Альтаир (3 pts) vs Дарк (3 pts)
+Альтаир wins 2-1
+4	
+Асет (0 pts) vs --- Bye ---
+Edit

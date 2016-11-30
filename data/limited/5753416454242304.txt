@@ -1,0 +1,56 @@
+Round 1
+1	
+dauren vs daulet
+daulet wins 2-1
+2	
+vic vs sasha
+vic wins 2-0
+3	
+altair vs spawn
+spawn wins 2-0
+4	
+timba vs ilka
+ilka wins 2-0
+Edit
+Round 2
+1	
+vic (3 pts) vs ilka (3 pts)
+ilka wins 2-0
+2	
+daulet (3 pts) vs spawn (3 pts)
+daulet wins 2-0
+3	
+timba (0 pts) vs sasha (0 pts)
+timba wins 2-0
+4	
+dauren (0 pts) vs altair (0 pts)
+dauren wins 2-1
+Edit
+Round 3
+1	
+daulet (6 pts) vs ilka (6 pts)
+ilka wins 2-1
+2	
+vic (3 pts) vs timba (3 pts)
+vic wins 2-1
+3	
+dauren (3 pts) vs spawn (3 pts)
+spawn wins 2-0
+4	
+altair (0 pts) vs sasha (0 pts)
+altair wins 2-0
+Edit
+Round 4
+1	
+spawn (6 pts) vs ilka (9 pts)
+ilka wins 2-1
+2	
+vic (6 pts) vs daulet (6 pts)
+daulet wins 2-1
+3	
+dauren (3 pts) vs sasha (0 pts)
+dauren wins 2-0
+4	
+altair (3 pts) vs timba (3 pts)
+timba wins 2-0
+Edit

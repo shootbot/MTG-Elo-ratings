@@ -1,0 +1,33 @@
+Round 1
+1	
+Timba vs Altair
+Timba wins 2-0
+2	
+Lena vs Alex
+Lena wins 2-1
+3	
+Nauryz vs Slava
+Slava wins 2-1
+Edit
+Round 2
+1	
+Timba (3 pts) vs Lena (3 pts)
+Timba wins 2-1
+2	
+Altair (0 pts) vs Slava (3 pts)
+Altair wins 2-1
+3	
+Nauryz (0 pts) vs Alex (0 pts)
+Draw 1-1
+Edit
+Round 3
+1	
+Timba (6 pts) vs Slava (3 pts)
+Timba wins 2-0
+2	
+Altair (3 pts) vs Alex (1 pts)
+Draw 1-1
+3	
+Lena (3 pts) vs Nauryz (1 pts)
+Nauryz wins 2-1
+Edit

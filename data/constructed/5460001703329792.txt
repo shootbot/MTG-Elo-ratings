@@ -1,0 +1,42 @@
+Round 1
+1	
+Timba vs Nauryz
+Nauryz wins 2-1
+2	
+Slava vs Vova
+Vova wins 2-1
+3	
+Lena vs Altair
+Altair wins 2-1
+4	
+Alex vs Aibek
+Alex wins 2-1
+Edit
+Round 2
+1	
+Nauryz (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+2	
+Alex (3 pts) vs Vova (3 pts)
+Vova wins 2-1
+3	
+Slava (0 pts) vs Aibek (0 pts)
+Aibek wins 2-1
+4	
+Timba (0 pts) vs Lena (0 pts)
+Timba wins 2-1
+Edit
+Round 3
+1	
+Vova (6 pts) vs Altair (6 pts)
+Altair wins 2-1
+2	
+Alex (3 pts) vs Nauryz (3 pts)
+Alex wins 2-1
+3	
+Timba (3 pts) vs Aibek (3 pts)
+Timba wins 2-0
+4	
+Slava (0 pts) vs Lena (0 pts)
+Slava wins 2-0
+Edit

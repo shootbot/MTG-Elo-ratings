@@ -1,0 +1,55 @@
+Round 1
+1	
+Lena vs Daulet
+Lena wins 2-1
+2	
+Timba vs Sula
+Timba wins 2-0
+3	
+Altair vs Slava
+Altair wins 2-0
+4	
+Vlad vs Daniyar
+Daniyar wins 2-0
+Edit
+Round 2
+1	
+Lena (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+2	
+Timba (3 pts) vs Daniyar (3 pts)
+Timba wins 2-1
+3	
+Daulet (0 pts) vs Slava (0 pts)
+Slava wins 2-0
+4	
+Vlad (0 pts) vs Sula (0 pts)
+Sula wins 2-1
+Edit
+Round 3
+1	
+Timba (6 pts) vs Altair (6 pts)
+Timba wins 2-0
+2	
+Lena (3 pts) vs Slava (3 pts)
+Slava wins 2-1
+3	
+Sula (3 pts) vs Daniyar (3 pts)
+Daniyar wins 2-1
+4	
+Vlad (0 pts) vs Daulet (0 pts)
+Daulet wins 2-0
+Edit
+Round 4
+1	
+Timba (9 pts) vs Slava (6 pts)
+Timba wins 2-1
+2	
+Altair (6 pts) vs Daniyar (6 pts)
+Daniyar wins 1-0
+3	
+Lena (3 pts) vs Sula (3 pts)
+Sula wins 2-1
+4	
+Vlad (0 pts) vs --- Bye ---
+Edit

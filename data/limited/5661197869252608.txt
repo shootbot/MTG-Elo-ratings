@@ -1,0 +1,68 @@
+Round 1
+1	
+ilka vs spawn
+spawn wins 2-1
+2	
+dauren vs altair
+Draw 1-1
+3	
+andan vs igor
+igor wins 2-0
+4	
+dark vs timba
+timba wins 2-0
+5	
+sasha vs zomba
+sasha wins 2-1
+Edit
+Round 2
+1	
+spawn (3 pts) vs timba (3 pts)
+spawn wins 2-1
+2	
+sasha (3 pts) vs igor (3 pts)
+sasha wins 2-0
+3	
+ilka (0 pts) vs altair (1 pts)
+altair wins 2-0
+4	
+dauren (1 pts) vs andan (0 pts)
+andan wins 2-1
+5	
+dark (0 pts) vs zomba (0 pts)
+dark wins 2-0
+Edit
+Round 3
+1	
+sasha (6 pts) vs spawn (6 pts)
+spawn wins 2-0
+2	
+dark (3 pts) vs altair (4 pts)
+altair wins 2-1
+3	
+dauren (1 pts) vs igor (3 pts)
+dauren wins 2-0
+4	
+andan (3 pts) vs timba (3 pts)
+timba wins 2-0
+5	
+ilka (0 pts) vs zomba (0 pts)
+ilka wins 2-0
+Edit
+Round 4
+1	
+spawn (9 pts) vs altair (7 pts)
+spawn wins 2-0
+2	
+sasha (6 pts) vs timba (6 pts)
+timba wins 2-0
+3	
+dauren (4 pts) vs dark (3 pts)
+dauren wins 2-1
+4	
+ilka (3 pts) vs igor (3 pts)
+ilka wins 2-0
+5	
+andan (3 pts) vs zomba (0 pts)
+zomba wins 2-0
+Edit

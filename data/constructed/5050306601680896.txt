@@ -1,0 +1,42 @@
+Round 1
+1	
+Alex vs Daniyar
+Daniyar wins 2-0
+2	
+Daulet vs Timba
+Timba wins 2-1
+3	
+Altair vs Adilet
+Altair wins 2-0
+4	
+Vovan vs Lena
+Lena wins 2-1
+Edit
+Round 2
+1	
+Timba (3 pts) vs Lena (3 pts)
+Lena wins 2-1
+2	
+Altair (3 pts) vs Daniyar (3 pts)
+Daniyar wins 2-0
+3	
+Daulet (0 pts) vs Vovan (0 pts)
+Vovan wins 2-1
+4	
+Alex (0 pts) vs Adilet (0 pts)
+Alex wins 2-0
+Edit
+Round 3
+1	
+Daniyar (6 pts) vs Lena (6 pts)
+Lena wins 2-0
+2	
+Vovan (3 pts) vs Timba (3 pts)
+Timba wins 2-1
+3	
+Alex (3 pts) vs Altair (3 pts)
+Altair wins 2-1
+4	
+Daulet (0 pts) vs Adilet (0 pts)
+Daulet wins 2-0
+Edit

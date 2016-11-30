@@ -1,0 +1,44 @@
+Round 1
+1	
+Ilka vs Spawn
+Spawn wins 2-0
+2	
+Altair vs Daulet
+Altair wins 2-1
+3	
+Dark vs Vic
+Dark wins 2-0
+Edit
+Round 2
+1	
+Dark (3 pts) vs Spawn (3 pts)
+Spawn wins 2-1
+2	
+Ilka (0 pts) vs Altair (3 pts)
+Altair wins 2-0
+3	
+Daulet (0 pts) vs Vic (0 pts)
+Vic wins 2-1
+Edit
+Round 3
+1	
+Altair (6 pts) vs Spawn (6 pts)
+Altair wins 2-0
+2	
+Ilka (0 pts) vs Vic (3 pts)
+Ilka wins 2-0
+3	
+Dark (3 pts) vs Daulet (0 pts)
+Dark wins 2-0
+Edit
+Round 4
+1	
+Altair (9 pts) vs Dark (6 pts)
+Altair wins 2-1
+2	
+Spawn (6 pts) vs Vic (3 pts)
+Spawn wins 2-0
+3	
+Ilka (3 pts) vs Daulet (0 pts)
+Ilka wins 2-0
+Edit

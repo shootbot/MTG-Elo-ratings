@@ -1,0 +1,42 @@
+Round 1
+1	
+Влад vs Саша
+Саша wins 2-1
+2	
+Асет vs Наурыз
+Наурыз wins 2-0
+3	
+Альтаир vs Вова
+Альтаир wins 2-1
+4	
+Даурен vs Илька
+Даурен wins 2-1
+Edit
+Round 2
+1	
+Альтаир (3 pts) vs Саша (3 pts)
+Альтаир wins 2-1
+2	
+Даурен (3 pts) vs Наурыз (3 pts)
+Даурен wins 2-1
+3	
+Влад (0 pts) vs Вова (0 pts)
+Вова wins 2-0
+4	
+Асет (0 pts) vs Илька (0 pts)
+Асет wins 2-1
+Edit
+Round 3
+1	
+Альтаир (6 pts) vs Даурен (6 pts)
+Альтаир wins 2-1
+2	
+Наурыз (3 pts) vs Вова (3 pts)
+Наурыз wins 2-1
+3	
+Асет (3 pts) vs Саша (3 pts)
+Саша wins 2-0
+4	
+Влад (0 pts) vs Илька (0 pts)
+Илька wins 2-0
+Edit

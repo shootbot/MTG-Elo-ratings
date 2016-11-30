@@ -1,0 +1,52 @@
+Round 1
+1	
+vic vs altair
+altair wins 2-0
+2	
+timba vs dauren
+dauren wins 2-0
+3	
+dark vs daulet
+daulet wins 2-0
+4	
+spawn vs --- Bye ---
+Edit
+Round 2
+1	
+altair (3 pts) vs daulet (3 pts)
+altair wins 2-0
+2	
+spawn (3 pts) vs dauren (3 pts)
+spawn wins 2-1
+3	
+timba (0 pts) vs --- Bye ---
+4	
+vic (0 pts) vs dark (0 pts)
+dark wins 2-0
+Edit
+Round 3
+1	
+spawn (6 pts) vs altair (6 pts)
+altair wins 2-1
+2	
+dauren (3 pts) vs daulet (3 pts)
+dauren wins 2-0
+3	
+timba (3 pts) vs dark (3 pts)
+dark wins 2-0
+4	
+vic (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+altair (9 pts) vs dauren (6 pts)
+dauren wins 2-0
+2	
+dark (6 pts) vs spawn (6 pts)
+dark wins 2-1
+3	
+vic (3 pts) vs timba (3 pts)
+timba wins 2-0
+4	
+daulet (3 pts) vs --- Bye ---
+Edit

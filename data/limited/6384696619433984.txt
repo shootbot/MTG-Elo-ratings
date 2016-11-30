@@ -1,0 +1,68 @@
+Round 1
+1	
+Влад vs Тима
+Тима wins 2-0
+2	
+Даурен vs Дарк
+Дарк wins 2-1
+3	
+Вова vs Рекс
+Вова wins 2-0
+4	
+Илька vs Саша
+Саша wins 2-0
+5	
+Наурыз vs Альтаир
+Альтаир wins 2-1
+Edit
+Round 2
+1	
+Саша (3 pts) vs Альтаир (3 pts)
+Саша wins 2-0
+2	
+Тима (3 pts) vs Дарк (3 pts)
+Дарк wins 2-0
+3	
+Влад (0 pts) vs Вова (3 pts)
+Вова wins 2-0
+4	
+Даурен (0 pts) vs Рекс (0 pts)
+Даурен wins 2-0
+5	
+Илька (0 pts) vs Наурыз (0 pts)
+Илька wins 2-0
+Edit
+Round 3
+1	
+Вова (6 pts) vs Саша (6 pts)
+Саша wins 2-1
+2	
+Илька (3 pts) vs Дарк (6 pts)
+Дарк wins 2-0
+3	
+Тима (3 pts) vs Альтаир (3 pts)
+Тима wins 2-1
+4	
+Даурен (3 pts) vs Наурыз (0 pts)
+Даурен wins 2-1
+5	
+Влад (0 pts) vs Рекс (0 pts)
+Draw 1-1
+Edit
+Round 4
+1	
+Дарк (9 pts) vs Саша (9 pts)
+Дарк wins 2-0
+2	
+Даурен (6 pts) vs Вова (6 pts)
+Вова wins 2-1
+3	
+Илька (3 pts) vs Тима (6 pts)
+Тима wins 2-1
+4	
+Рекс (1 pts) vs Альтаир (3 pts)
+Альтаир wins 2-0
+5	
+Влад (1 pts) vs Наурыз (0 pts)
+Наурыз wins 2-0
+Edit

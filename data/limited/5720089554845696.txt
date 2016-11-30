@@ -1,0 +1,37 @@
+Round 1
+1	
+tima vs daniyar
+daniyar wins 2-0
+2	
+sasha vs nurik
+nurik wins 2-1
+3	
+altair vs dauren
+altair wins 2-1
+4	
+daulet vs --- Bye ---
+Edit
+Round 2
+1	
+daniyar (3 pts) vs nurik (3 pts)
+daniyar wins 2-0
+2	
+altair (3 pts) vs daulet (3 pts)
+daulet wins 2-1
+3	
+sasha (0 pts) vs dauren (0 pts)
+sasha wins 2-1
+4	
+tima (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+daniyar (6 pts) vs daulet (6 pts)
+daniyar wins 2-0
+2	
+sasha (3 pts) vs altair (3 pts)
+altair wins 2-1
+3	
+dauren (0 pts) vs nurik (3 pts)
+nurik wins 2-0
+Edit

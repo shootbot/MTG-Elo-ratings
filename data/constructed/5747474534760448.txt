@@ -1,0 +1,33 @@
+Round 1
+1	
+Саша vs Дарк
+Саша wins 2-1
+2	
+Вова vs Даулет
+Даулет wins 2-0
+3	
+Данияр vs Альтаир
+Данияр wins 2-0
+Edit
+Round 2
+1	
+Данияр (3 pts) vs Даулет (3 pts)
+Данияр wins 2-1
+2	
+Саша (3 pts) vs Вова (0 pts)
+Вова wins 2-1
+3	
+Дарк (0 pts) vs Альтаир (0 pts)
+Альтаир wins 2-1
+Edit
+Round 3
+1	
+Вова (3 pts) vs Данияр (6 pts)
+Данияр wins 2-0
+2	
+Дарк (0 pts) vs Даулет (3 pts)
+Дарк wins 2-0
+3	
+Саша (3 pts) vs Альтаир (3 pts)
+Саша wins 2-0
+Edit

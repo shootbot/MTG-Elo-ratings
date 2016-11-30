@@ -1,0 +1,66 @@
+Round 1
+1	
+Альтаир vs Влад
+Альтаир wins 2-0
+2	
+Рекс vs Айбек
+Айбек wins 2-0
+3	
+Даулет vs Вова
+Даулет wins 2-0
+4	
+Дарк vs Лена
+Лена wins 2-1
+5	
+Наурыз vs Тима
+Тима wins 2-1
+Edit
+Round 2
+1	
+Айбек (3 pts) vs Лена (3 pts)
+Лена wins 2-1
+2	
+Альтаир (3 pts) vs Тима (3 pts)
+Альтаир wins 2-0
+3	
+Даулет (3 pts) vs Наурыз (0 pts)
+Наурыз wins 2-1
+4	
+Дарк (0 pts) vs Вова (0 pts)
+Вова wins 2-0
+5	
+Рекс (0 pts) vs Влад (0 pts)
+Влад wins 2-0
+Edit
+Round 3
+1	
+Альтаир (6 pts) vs Лена (6 pts)
+Альтаир wins 2-0
+2	
+Наурыз (3 pts) vs Айбек (3 pts)
+Наурыз wins 2-1
+3	
+Даулет (3 pts) vs Тима (3 pts)
+Даулет wins 2-0
+4	
+Влад (3 pts) vs Вова (3 pts)
+Влад wins 2-0
+5	
+Рекс (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Альтаир (9 pts) vs Даулет (6 pts)
+Альтаир wins 2-1
+2	
+Влад (6 pts) vs Лена (6 pts)
+Влад wins 2-0
+3	
+Наурыз (6 pts) vs Вова (3 pts)
+Вова wins 2-0
+4	
+Рекс (3 pts) vs Тима (3 pts)
+Тима wins 2-0
+5	
+Айбек (3 pts) vs --- Bye ---
+Edit

@@ -1,0 +1,39 @@
+Round 1
+1	
+Daulet vs Timba
+Timba wins 2-0
+2	
+Altair vs Daniyar
+Altair wins 2-1
+3	
+Alex vs Andan
+Alex wins 2-0
+4	
+Ilka vs --- Bye ---
+Edit
+Round 2
+1	
+Altair (3 pts) vs Ilka (3 pts)
+Altair wins 2-0
+2	
+Alex (3 pts) vs Timba (3 pts)
+Timba wins 2-1
+3	
+Daulet (0 pts) vs Andan (0 pts)
+Daulet wins 2-0
+4	
+Daniyar (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Altair (6 pts) vs Timba (6 pts)
+Timba wins 2-0
+2	
+Daulet (3 pts) vs Alex (3 pts)
+Alex wins 2-0
+3	
+Ilka (3 pts) vs Daniyar (3 pts)
+Ilka wins 2-1
+4	
+Andan (0 pts) vs --- Bye ---
+Edit

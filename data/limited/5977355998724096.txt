@@ -1,0 +1,33 @@
+Round 1
+1	
+Nauryz vs Ilka
+Ilka wins 2-1
+2	
+Loki vs Alex
+Alex wins 2-0
+3	
+Aybek vs Tani
+Tani wins 2-0
+Edit
+Round 2
+1	
+Ilka (3 pts) vs Alex (3 pts)
+Ilka wins 2-1
+2	
+Loki (0 pts) vs Tani (3 pts)
+Tani wins 2-0
+3	
+Nauryz (0 pts) vs Aybek (0 pts)
+Aybek wins 2-1
+Edit
+Round 3
+1	
+Ilka (6 pts) vs Tani (6 pts)
+Ilka wins 2-1
+2	
+Aybek (3 pts) vs Alex (3 pts)
+Alex wins 2-0
+3	
+Nauryz (0 pts) vs Loki (0 pts)
+Draw 1-1
+Edit

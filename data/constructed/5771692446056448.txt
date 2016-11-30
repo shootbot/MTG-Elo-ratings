@@ -1,0 +1,67 @@
+Round 1
+1	
+Slava vs Alex
+Alex wins 2-0
+2	
+Aibek vs Il'ka
+Il'ka wins 2-0
+3	
+Altair vs Daniyar
+Altair wins 2-0
+4	
+Timba vs Vlad
+Timba wins 2-0
+5	
+Lena vs Aset
+Lena wins 2-1
+Edit
+Round 2
+1	
+Altair (3 pts) vs Il'ka (3 pts)
+Il'ka wins 2-0
+2	
+Timba (3 pts) vs Alex (3 pts)
+Timba wins 2-0
+3	
+Lena (3 pts) vs Daniyar (0 pts)
+Lena wins 2-1
+4	
+Aibek (0 pts) vs Vlad (0 pts)
+Vlad wins 2-0
+5	
+Slava (0 pts) vs Aset (0 pts)
+Aset wins 2-0
+Edit
+Round 3
+1	
+Timba (6 pts) vs Lena (6 pts)
+Timba wins 2-0
+2	
+Il'ka (6 pts) vs Aset (3 pts)
+Il'ka wins 2-0
+3	
+Altair (3 pts) vs Alex (3 pts)
+Altair wins 2-0
+4	
+Slava (0 pts) vs Vlad (3 pts)
+Slava wins 2-0
+5	
+Aibek (0 pts) vs Daniyar (0 pts)
+Daniyar wins 2-0
+Edit
+Round 4
+1	
+Timba (9 pts) vs Il'ka (9 pts)
+Timba wins 2-1
+2	
+Altair (6 pts) vs Lena (6 pts)
+Altair wins 2-0
+3	
+Slava (3 pts) vs Daniyar (3 pts)
+Slava wins 2-0
+4	
+Vlad (3 pts) vs Aset (3 pts)
+Vlad wins 2-1
+5	
+Aibek (0 pts) vs --- Bye ---
+Edit

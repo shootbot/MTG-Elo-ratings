@@ -1,0 +1,64 @@
+Round 1
+1	
+Altair vs Alex
+Draw 1-1
+2	
+Nauryz vs Daulet
+Daulet wins 2-1
+3	
+Timba vs Marat
+Timba wins 2-0
+4	
+Lena vs Sula
+Draw 1-1
+5	
+Vlad vs --- Bye ---
+Edit
+Round 2
+1	
+Timba (3 pts) vs Daulet (3 pts)
+Draw 1-1
+2	
+Lena (1 pts) vs Vlad (3 pts)
+Vlad wins 2-1
+3	
+Alex (1 pts) vs Sula (1 pts)
+Draw 1-1
+4	
+Altair (1 pts) vs Marat (0 pts)
+Altair wins 2-0
+5	
+Nauryz (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Vlad (6 pts) vs Daulet (4 pts)
+Daulet wins 2-0
+2	
+Altair (4 pts) vs Timba (4 pts)
+Timba wins 2-0
+3	
+Nauryz (3 pts) vs Sula (2 pts)
+Nauryz wins 2-1
+4	
+Lena (1 pts) vs Alex (2 pts)
+Draw 1-1
+5	
+Marat (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Timba (7 pts) vs Vlad (6 pts)
+Timba wins 2-0
+2	
+Altair (4 pts) vs Daulet (7 pts)
+Altair wins 2-0
+3	
+Nauryz (6 pts) vs Alex (3 pts)
+Nauryz wins 2-0
+4	
+Marat (3 pts) vs Sula (2 pts)
+Sula wins 2-1
+5	
+Lena (2 pts) vs --- Bye ---
+Edit

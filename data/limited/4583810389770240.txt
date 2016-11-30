@@ -1,0 +1,85 @@
+Round 1
+1	
+Dark vs Lena
+Dark wins 2-0
+2	
+Timba vs Daulet
+Daulet wins 2-1
+3	
+Dauren vs Ilka
+Dauren wins 2-1
+4	
+Spawn vs Vik
+Spawn wins 2-0
+5	
+Altair vs Nauryz
+Nauryz wins 2-1
+Edit
+Round 2
+1	
+Dark (3 pts) vs Spawn (3 pts)
+Dark wins 2-0
+2	
+Dauren (3 pts) vs Daulet (3 pts)
+Dauren wins 2-0
+3	
+Ilka (0 pts) vs Nauryz (3 pts)
+Ilka wins 2-1
+4	
+Altair (0 pts) vs Vik (0 pts)
+Altair wins 2-1
+5	
+Timba (0 pts) vs Lena (0 pts)
+Timba wins 2-0
+Edit
+Round 3
+1	
+Dark (6 pts) vs Dauren (6 pts)
+Dark wins 2-0
+2	
+Altair (3 pts) vs Ilka (3 pts)
+Ilka wins 2-0
+3	
+Timba (3 pts) vs Nauryz (3 pts)
+Timba wins 2-1
+4	
+Daulet (3 pts) vs Spawn (3 pts)
+Spawn wins 2-0
+5	
+Lena (0 pts) vs Vik (0 pts)
+Vik wins 2-0
+Edit
+Round 4
+1	
+Dark (9 pts) vs Ilka (6 pts)
+Ilka wins 2-0
+2	
+Timba (6 pts) vs Dauren (6 pts)
+Dauren wins 2-1
+3	
+Spawn (6 pts) vs Nauryz (3 pts)
+Nauryz wins 2-1
+4	
+Daulet (3 pts) vs Vik (3 pts)
+Vik wins 2-1
+5	
+Lena (0 pts) vs Altair (3 pts)
+Altair wins 2-1
+Edit
+Round 5
+1	
+Spawn (6 pts) vs Ilka (9 pts)
+Draw 1-1
+2	
+Dark (9 pts) vs Nauryz (6 pts)
+Dark wins 2-1
+3	
+Dauren (9 pts) vs Altair (6 pts)
+Dauren wins 2-0
+4	
+Timba (6 pts) vs Vik (6 pts)
+Timba wins 2-1
+5	
+Daulet (3 pts) vs Lena (0 pts)
+Lena wins 2-0
+Edit

@@ -1,0 +1,41 @@
+Round 1
+1	
+Alex vs Daulet
+Alex wins 2-0
+2	
+Dark vs Timba
+Dark wins 2-1
+3	
+Il'ka vs Artem
+Artem wins 1-0
+4	
+Slava vs Nauryz
+Nauryz wins 2-1
+Edit
+Round 2
+1	
+Dark (3 pts) vs Nauryz (3 pts)
+Dark wins 2-1
+2	
+Alex (3 pts) vs Artem (3 pts)
+Alex wins 1-0
+3	
+Slava (0 pts) vs Timba (0 pts)
+Timba wins 2-0
+4	
+Il'ka (0 pts) vs Daulet (0 pts)
+Il'ka wins 2-1
+Edit
+Round 3
+1	
+Alex (6 pts) vs Dark (6 pts)
+Dark wins 2-1
+2	
+Artem (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-1
+3	
+Il'ka (3 pts) vs Timba (3 pts)
+Il'ka wins 2-1
+4	
+Slava (0 pts) vs --- Bye ---
+Edit

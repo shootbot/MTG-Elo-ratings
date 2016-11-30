@@ -1,0 +1,62 @@
+Round 1
+1	
+Lena vs Vlad
+Vlad wins 2-0
+2	
+Daniyar vs Alex
+Alex wins 2-1
+3	
+Altair vs Vovan
+Altair wins 2-0
+4	
+Timur vs Daulet
+Timur wins 2-0
+5	
+Aset vs --- Bye ---
+Edit
+Round 2
+1	
+Altair (3 pts) vs Vlad (3 pts)
+Altair wins 2-1
+2	
+Timur (3 pts) vs Aset (3 pts)
+Aset wins 2-0
+3	
+Alex (3 pts) vs Daulet (0 pts)
+Alex wins 2-0
+4	
+Daniyar (0 pts) vs Vovan (0 pts)
+Daniyar wins 2-1
+5	
+Lena (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Altair (6 pts) vs Aset (6 pts)
+Altair wins 2-1
+2	
+Lena (3 pts) vs Alex (6 pts)
+Alex wins 2-0
+3	
+Daniyar (3 pts) vs Vlad (3 pts)
+Daniyar wins 2-1
+4	
+Timur (3 pts) vs Vovan (0 pts)
+Vovan wins 2-0
+5	
+Daulet (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Altair (9 pts) vs Alex (9 pts)
+Alex wins 2-0
+2	
+Daniyar (6 pts) vs Aset (6 pts)
+Daniyar wins 2-0
+3	
+Vovan (3 pts) vs Daulet (3 pts)
+Daulet wins 2-0
+4	
+Lena (3 pts) vs Timur (3 pts)
+Lena wins 2-1
+Edit

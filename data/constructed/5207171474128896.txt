@@ -1,0 +1,60 @@
+Round 1
+1	
+Timba vs Nauryz
+Timba wins 2-0
+2	
+Vova vs Altair
+Altair wins 2-0
+3	
+Alex vs Sula
+Alex wins 1-0
+4	
+Ilka vs Vlad
+Ilka wins 2-0
+5	
+Lena vs --- Bye ---
+Edit
+Round 2
+1	
+Ilka (3 pts) vs Lena (3 pts)
+Lena wins 2-0
+2	
+Timba (3 pts) vs Alex (3 pts)
+Alex wins 1-0
+3	
+Nauryz (0 pts) vs Altair (3 pts)
+Altair wins 2-1
+4	
+Vova (0 pts) vs Sula (0 pts)
+Vova wins 2-1
+5	
+Vlad (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Alex (6 pts) vs Altair (6 pts)
+Alex wins 1-0
+2	
+Timba (3 pts) vs Lena (6 pts)
+Lena wins 2-1
+3	
+Vova (3 pts) vs Ilka (3 pts)
+Ilka wins 2-1
+4	
+Nauryz (0 pts) vs Sula (0 pts)
+Nauryz wins 2-0
+Edit
+Round 4
+1	
+Alex (9 pts) vs Lena (9 pts)
+Draw 1-1
+2	
+Ilka (6 pts) vs Altair (6 pts)
+Ilka wins 2-0
+3	
+Vova (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-0
+4	
+Timba (3 pts) vs Sula (0 pts)
+Timba wins 2-1
+Edit

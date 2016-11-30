@@ -1,0 +1,42 @@
+Round 1
+1	
+Айбек vs Даурен
+Даурен wins 2-0
+2	
+Илька vs Вова
+Вова wins 2-0
+3	
+Альтаир vs Наурыз
+Draw 1-1
+4	
+Дарк vs Саша
+Дарк wins 2-0
+Edit
+Round 2
+1	
+Дарк (3 pts) vs Вова (3 pts)
+Дарк wins 2-0
+2	
+Даурен (3 pts) vs Наурыз (1 pts)
+Наурыз wins 2-0
+3	
+Айбек (0 pts) vs Альтаир (1 pts)
+Альтаир wins 2-1
+4	
+Илька (0 pts) vs Саша (0 pts)
+Саша wins 2-0
+Edit
+Round 3
+1	
+Альтаир (4 pts) vs Дарк (6 pts)
+Дарк wins 2-1
+2	
+Наурыз (4 pts) vs Саша (3 pts)
+Наурыз wins 2-1
+3	
+Даурен (3 pts) vs Вова (3 pts)
+Вова wins 2-1
+4	
+Айбек (0 pts) vs Илька (0 pts)
+Draw 1-1
+Edit

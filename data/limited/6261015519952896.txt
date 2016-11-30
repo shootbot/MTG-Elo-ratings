@@ -1,0 +1,68 @@
+Round 1
+1	
+Nauryz vs Dauren
+Nauryz wins 2-0
+2	
+Vlad vs Alex
+Alex wins 2-0
+3	
+Spawn vs Daulet
+Daulet wins 2-0
+4	
+Ilka vs Timba
+Timba wins 2-0
+5	
+Dark vs Altair
+Dark wins 2-0
+Edit
+Round 2
+1	
+Dark (3 pts) vs Alex (3 pts)
+Dark wins 1-0
+2	
+Nauryz (3 pts) vs Daulet (3 pts)
+Daulet wins 2-0
+3	
+Spawn (0 pts) vs Timba (3 pts)
+Timba wins 2-0
+4	
+Vlad (0 pts) vs Dauren (0 pts)
+Dauren wins 2-0
+5	
+Ilka (0 pts) vs Altair (0 pts)
+Altair wins 2-0
+Edit
+Round 3
+1	
+Dark (6 pts) vs Daulet (6 pts)
+Dark wins 2-0
+2	
+Nauryz (3 pts) vs Timba (6 pts)
+Timba wins 2-0
+3	
+Alex (3 pts) vs Altair (3 pts)
+Draw 1-1
+4	
+Spawn (0 pts) vs Dauren (3 pts)
+Spawn wins 2-0
+5	
+Vlad (0 pts) vs Ilka (0 pts)
+Ilka wins 2-0
+Edit
+Round 4
+1	
+Dark (9 pts) vs Timba (9 pts)
+Timba wins 2-1
+2	
+Dauren (3 pts) vs Daulet (6 pts)
+Daulet wins 2-0
+3	
+Vlad (0 pts) vs Altair (4 pts)
+Altair wins 2-0
+4	
+Ilka (3 pts) vs Alex (4 pts)
+Ilka wins 2-1
+5	
+Nauryz (3 pts) vs Spawn (3 pts)
+Spawn wins 2-1
+Edit

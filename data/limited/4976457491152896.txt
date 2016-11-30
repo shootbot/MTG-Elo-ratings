@@ -1,0 +1,33 @@
+Round 1
+1	
+Loki vs Ablay
+Ablay wins 2-0
+2	
+Ilka vs Mnogolikii
+Ilka wins 2-0
+3	
+Dark vs Altair
+Altair wins 2-0
+Edit
+Round 2
+1	
+Ilka (3 pts) vs Ablay (3 pts)
+Ilka wins 2-1
+2	
+Loki (0 pts) vs Altair (3 pts)
+Altair wins 2-0
+3	
+Dark (0 pts) vs Mnogolikii (0 pts)
+Dark wins 2-0
+Edit
+Round 3
+1	
+Ilka (6 pts) vs Altair (6 pts)
+Draw 1-1
+2	
+Dark (3 pts) vs Ablay (3 pts)
+Dark wins 2-0
+3	
+Loki (0 pts) vs Mnogolikii (0 pts)
+Loki wins 2-1
+Edit

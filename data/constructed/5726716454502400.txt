@@ -1,0 +1,30 @@
+Round 1
+1	
+Игорь vs Вова
+Вова wins 2-0
+2	
+Илька vs Альтаир
+Илька wins 2-0
+3	
+Тима vs --- Bye ---
+Edit
+Round 2
+1	
+Тима (3 pts) vs Вова (3 pts)
+Вова wins 2-0
+2	
+Игорь (0 pts) vs Илька (3 pts)
+Илька wins 2-0
+3	
+Альтаир (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Илька (6 pts) vs Вова (6 pts)
+Вова wins 2-0
+2	
+Тима (3 pts) vs Альтаир (3 pts)
+Тима wins 2-0
+3	
+Игорь (0 pts) vs --- Bye ---
+Edit

@@ -1,0 +1,42 @@
+Round 1
+1	
+Алина vs Дарк
+Дарк wins 2-0
+2	
+Альтаир vs Даурен
+Даурен wins 2-1
+3	
+Саша vs Даулет
+Саша wins 2-0
+4	
+Вова vs Илька
+Илька wins 2-0
+Edit
+Round 2
+1	
+Саша (3 pts) vs Дарк (3 pts)
+Дарк wins 2-0
+2	
+Даурен (3 pts) vs Илька (3 pts)
+Даурен wins 2-0
+3	
+Альтаир (0 pts) vs Вова (0 pts)
+Вова wins 2-1
+4	
+Алина (0 pts) vs Даулет (0 pts)
+Даулет wins 2-0
+Edit
+Round 3
+1	
+Дарк (6 pts) vs Даурен (6 pts)
+Даурен wins 2-0
+2	
+Вова (3 pts) vs Даулет (3 pts)
+Даулет wins 2-1
+3	
+Саша (3 pts) vs Илька (3 pts)
+Илька wins 2-0
+4	
+Алина (0 pts) vs Альтаир (0 pts)
+Альтаир wins 2-0
+Edit

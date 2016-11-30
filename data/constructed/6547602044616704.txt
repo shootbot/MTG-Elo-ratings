@@ -1,0 +1,33 @@
+Round 1
+1	
+Nauryz vs Timba
+Nauryz wins 2-0
+2	
+Lena vs Aibek
+Lena wins 2-0
+3	
+Daulet vs Vlad
+Daulet wins 2-0
+Edit
+Round 2
+1	
+Nauryz (3 pts) vs Lena (3 pts)
+Lena wins 2-1
+2	
+Daulet (3 pts) vs Timba (0 pts)
+Timba wins 2-0
+3	
+Aibek (0 pts) vs Vlad (0 pts)
+Aibek wins 2-0
+Edit
+Round 3
+1	
+Lena (6 pts) vs Timba (3 pts)
+Lena wins 2-1
+2	
+Nauryz (3 pts) vs Vlad (0 pts)
+Nauryz wins 2-0
+3	
+Daulet (3 pts) vs Aibek (3 pts)
+Daulet wins 2-0
+Edit

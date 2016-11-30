@@ -1,0 +1,24 @@
+Round 1
+1	
+Altair vs Dark
+Altair wins 2-0
+2	
+Slava vs Alex
+Alex wins 2-0
+Edit
+Round 2
+1	
+Altair (3 pts) vs Alex (3 pts)
+Altair wins 2-0
+2	
+Slava (0 pts) vs Dark (0 pts)
+Dark wins 2-1
+Edit
+Round 3
+1	
+Altair (6 pts) vs Slava (0 pts)
+Altair wins 2-0
+2	
+Dark (3 pts) vs Alex (3 pts)
+Alex wins 2-0
+Edit

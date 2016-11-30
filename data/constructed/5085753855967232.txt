@@ -1,0 +1,56 @@
+Round 1
+1	
+daulet vs ilka
+daulet wins 2-1
+2	
+vic vs altair
+vic wins 2-1
+3	
+sasha vs spawn
+sasha wins 2-1
+4	
+daniyar vs dauren
+dauren wins 2-0
+Edit
+Round 2
+1	
+daulet (3 pts) vs sasha (3 pts)
+sasha wins 2-0
+2	
+vic (3 pts) vs dauren (3 pts)
+vic wins 2-0
+3	
+ilka (0 pts) vs spawn (0 pts)
+spawn wins 2-0
+4	
+daniyar (0 pts) vs altair (0 pts)
+altair wins 2-0
+Edit
+Round 3
+1	
+vic (6 pts) vs sasha (6 pts)
+sasha wins 2-0
+2	
+spawn (3 pts) vs dauren (3 pts)
+spawn wins 2-1
+3	
+daulet (3 pts) vs altair (3 pts)
+daulet wins 2-0
+4	
+daniyar (0 pts) vs ilka (0 pts)
+daniyar wins 2-1
+Edit
+Round 4
+1	
+sasha (9 pts) vs daniyar (3 pts)
+daniyar wins 2-1
+2	
+vic (6 pts) vs spawn (6 pts)
+vic wins 2-0
+3	
+daulet (6 pts) vs dauren (3 pts)
+dauren wins 2-1
+4	
+ilka (0 pts) vs altair (3 pts)
+ilka wins 2-0
+Edit

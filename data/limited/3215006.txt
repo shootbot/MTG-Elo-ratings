@@ -1,0 +1,44 @@
+Round 1
+1	
+Dark vs Dauren
+Dark wins 2-0
+2	
+Daulet vs Vic
+Daulet wins 2-0
+3	
+Timur vs Spawn
+Timur wins 2-1
+Edit
+Round 2
+1	
+Daulet (3 pts) vs Timur (3 pts)
+Timur wins 2-0
+2	
+Dark (3 pts) vs Spawn (0 pts)
+Spawn wins 2-1
+3	
+Dauren (0 pts) vs Vic (0 pts)
+Vic wins 2-0
+Edit
+Round 3
+1	
+Dark (3 pts) vs Timur (6 pts)
+Dark wins 2-1
+2	
+Daulet (3 pts) vs Dauren (0 pts)
+Daulet wins 2-0
+3	
+Vic (3 pts) vs Spawn (3 pts)
+Spawn wins 2-0
+Edit
+Round 4
+1	
+Dark (6 pts) vs Daulet (6 pts)
+Dark wins 2-1
+2	
+Timur (6 pts) vs Vic (3 pts)
+Timur wins 2-1
+3	
+Dauren (0 pts) vs Spawn (6 pts)
+Spawn wins 2-0
+Edit

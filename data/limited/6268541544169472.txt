@@ -1,0 +1,56 @@
+Round 1
+1	
+daulet vs nurik
+daulet wins 2-0
+2	
+andan vs spawn
+spawn wins 2-0
+3	
+vic vs altair
+altair wins 2-0
+4	
+sasha vs dauren
+Draw 1-1
+Edit
+Round 2
+1	
+spawn (3 pts) vs dauren (1 pts)
+spawn wins 2-0
+2	
+daulet (3 pts) vs altair (3 pts)
+altair wins 2-1
+3	
+andan (0 pts) vs sasha (1 pts)
+sasha wins 2-1
+4	
+vic (0 pts) vs nurik (0 pts)
+vic wins 2-0
+Edit
+Round 3
+1	
+spawn (6 pts) vs altair (6 pts)
+spawn wins 2-1
+2	
+vic (3 pts) vs sasha (4 pts)
+sasha wins 2-1
+3	
+daulet (3 pts) vs dauren (1 pts)
+dauren wins 2-0
+4	
+andan (0 pts) vs nurik (0 pts)
+nurik wins 2-1
+Edit
+Round 4
+1	
+sasha (7 pts) vs spawn (9 pts)
+spawn wins 2-1
+2	
+nurik (3 pts) vs altair (6 pts)
+altair wins 2-0
+3	
+andan (0 pts) vs dauren (4 pts)
+dauren wins 2-0
+4	
+daulet (3 pts) vs vic (3 pts)
+vic wins 2-0
+Edit

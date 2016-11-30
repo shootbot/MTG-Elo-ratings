@@ -1,0 +1,64 @@
+Round 1
+1	
+Lindman vs Dark
+Dark wins 2-1
+2	
+Sula vs Vlad
+Vlad wins 2-0
+3	
+Andan vs Altair
+Altair wins 2-1
+4	
+Nauryz vs Marat
+Nauryz wins 2-0
+5	
+Timba vs Aset
+Timba wins 2-0
+Edit
+Round 2
+1	
+Nauryz (3 pts) vs Dark (3 pts)
+Dark wins 2-1
+2	
+Timba (3 pts) vs Altair (3 pts)
+Timba wins 2-0
+3	
+Vlad (3 pts) vs Marat (0 pts)
+Vlad wins 2-0
+4	
+Lindman (0 pts) vs Sula (0 pts)
+Sula wins 2-1
+5	
+Andan (0 pts) vs Aset (0 pts)
+Aset wins 2-1
+Edit
+Round 3
+1	
+Timba (6 pts) vs Vlad (6 pts)
+Timba wins 2-0
+2	
+Nauryz (3 pts) vs Altair (3 pts)
+Nauryz wins 2-1
+3	
+Sula (3 pts) vs Aset (3 pts)
+Aset wins 2-0
+4	
+Andan (0 pts) vs Marat (0 pts)
+Marat wins 2-1
+5	
+Lindman (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Nauryz (6 pts) vs Timba (9 pts)
+Timba wins 2-0
+2	
+Vlad (6 pts) vs Aset (6 pts)
+Aset wins 2-1
+3	
+Lindman (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+4	
+Sula (3 pts) vs Marat (3 pts)
+Marat wins 2-0
+Edit

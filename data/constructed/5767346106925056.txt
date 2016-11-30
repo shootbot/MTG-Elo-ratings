@@ -1,0 +1,33 @@
+Round 1
+1	
+sasha vs timba
+timba wins 2-1
+2	
+alina vs daulet
+daulet wins 2-1
+3	
+altair vs spawn
+altair wins 2-0
+Edit
+Round 2
+1	
+altair (3 pts) vs timba (3 pts)
+timba wins 2-1
+2	
+sasha (0 pts) vs daulet (3 pts)
+sasha wins 2-0
+3	
+alina (0 pts) vs spawn (0 pts)
+alina wins 2-1
+Edit
+Round 3
+1	
+timba (6 pts) vs daulet (3 pts)
+timba wins 2-0
+2	
+sasha (3 pts) vs spawn (0 pts)
+spawn wins 2-0
+3	
+alina (3 pts) vs altair (3 pts)
+alina wins 2-0
+Edit

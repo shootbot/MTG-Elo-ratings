@@ -1,0 +1,33 @@
+Round 1
+1	
+daulet vs tima
+tima wins 2-0
+2	
+altair vs dark
+dark wins 2-0
+3	
+andan vs vic
+Draw 1-1
+Edit
+Round 2
+1	
+tima (3 pts) vs dark (3 pts)
+dark wins 2-0
+2	
+daulet (0 pts) vs vic (1 pts)
+vic wins 2-1
+3	
+altair (0 pts) vs andan (1 pts)
+altair wins 2-0
+Edit
+Round 3
+1	
+dark (6 pts) vs vic (4 pts)
+vic wins 2-0
+2	
+altair (3 pts) vs tima (3 pts)
+altair wins 2-0
+3	
+daulet (0 pts) vs andan (1 pts)
+daulet wins 2-0
+Edit

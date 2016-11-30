@@ -1,0 +1,1020 @@
+3215006 draft dgm
+2013-07-10
+mushegoff's
+Draft (DGM/GTC/RTR)
+6
+3289001 draft dgm
+2013-07-17
+DGM 6/6
+Draft (DGM/GTC/RTR)
+6
+3360002 constructed modern
+2013-07-27
+mushegoff's
+Draft (DGM/GTC/RTR)
+5
+3363002 constructed legacy
+2013-07-27
+mushegoff's
+Draft (DGM/GTC/RTR)
+7
+3437002 constructed modern
+2013-08-10
+astana
+Draft
+8
+3430005 constructed legacy
+2013-08-14
+astana
+Draft (DGM/GTC/RTR)
+6
+3463001 constructed legacy
+2013-08-17
+mushegoff's
+Draft (DGM/GTC/RTR)
+7
+3422014 draft m14
+2013-08-21
+mushegoff's
+Draft (DGM/GTC/RTR)
+8
+3486003 constructed legacy
+2013-08-24
+mushegoff's
+Draft (DGM/GTC/RTR)
+5
+3508001 draft m14
+2013-08-28
+mushegoff's
+Draft (DGM/GTC/RTR)
+6
+3503010 draft m14
+2013-09-04
+mushegoff's
+Draft (DGM/GTC/RTR)
+6
+3568002 broken tournament
+2013-09-11
+lovEElven's
+Draft (THS/THS/THS)
+6
+3645002 draft m14
+2013-09-25
+lovEElven's
+Draft (THS/THS/THS)
+5
+5891733057437696 draft m14
+2013-10-02
+mushegoff's
+Draft (THS/THS/THS)
+6
+5658389900165120 draft theros
+2013-11-12
+mushegoff's
+Draft (THS/THS/THS)
+9
+6268541544169472 draft theros
+2013-11-16
+mushegoff's
+Draft (THS/THS/THS)
+8
+5758661280399360 constructed legacy
+2013-11-19
+mushegoff's
+Draft (THS/THS/THS)
+7
+5652017242439680 draft ths
+2013-11-20
+mushegoff's
+Draft (THS/THS/THS)
+9
+5741384237580288 sealed ths
+2013-11-23
+lovEElven's
+Draft (THS/THS/THS)
+6
+5082366603165696 draft ths
+2013-11-27
+lovEElven's
+Draft (THS/THS/THS)
+9
+5740745361195008 draft ths
+2013-12-04
+lovEElven's
+Draft (THS/THS/THS)
+6
+5072270611447808 draft dgm
+2013-12-18
+mushegoff's
+Draft (THS/THS/THS)
+6
+5632581307465728 draft dgm
+2013-12-21
+mushegoff's
+Draft (THS/THS/THS)
+6
+5690886025379840 draft dgm
+2014-01-07
+mushegoff's
+Draft (THS/THS/THS)
+8
+5753416454242304 draft gtc
+2014-01-11
+mushegoff's
+Draft (THS/THS/THS)
+8
+5704650321821696 constructed standard
+2014-01-15
+mushegoff's
+Draft (THS/THS/THS)
+9
+5767346106925056 constructed legacy
+2014-01-18
+mushegoff's
+Draft (THS/THS/THS)
+6
+5740679460290560 constructed legacy
+2014-01-22
+mushegoff's
+Draft (THS/THS/THS)
+7
+5661197869252608 draft dissension
+2014-01-29
+mushegoff's
+Draft (THS/THS/THS)
+10
+5128952637030400 constructed hz
+2014-01-31
+mushegoff's
+Draft (THS/THS/THS)
+6
+5085753855967232 constructed legacy
+2014-02-05
+mushegoff's
+Draft (THS/THS/THS)
+8
+5121659782561792 broken tournament
+2014-02-06
+mushegoff's
+Draft (THS/THS/THS)
+8
+5683045831016448 broken tournament
+2014-02-08
+mushegoff's
+Draft (THS/THS/THS)
+6
+5765105476173824 draft mm
+2014-02-08
+mushegoff's
+Draft (THS/THS/THS)
+10
+6027302492176384 draft mm
+2014-02-10
+mushegoff's
+Draft (THS/THS/THS)
+5
+5155435942248448 broken tournament
+2014-02-22
+mushegoff's
+Draft (THS/THS/THS)
+5
+6292947494502400 constructed modern
+2014-03-01
+mushegoff's
+Draft (THS/THS/THS)
+7
+5719794846269440 constructed standard
+2014-03-05
+mushegoff's
+Draft (THS/THS/THS)
+7
+5138695434797056 draft btt
+2014-03-09
+mushegoff's
+Draft (THS/THS/THS)
+10
+5151710796316672 draft btt
+2014-03-12
+mushegoff's
+Draft (THS/THS/THS)
+8
+5646092670599168 draft btt
+2014-03-19
+mushegoff's
+Draft (THS/THS/THS)
+8
+5195562143973376 constructed modern
+2014-03-24
+mushegoff's
+Draft (THS/THS/THS)
+6
+5726716454502400 constructed standard
+2014-03-26
+mushegoff's
+Draft (THS/THS/THS)
+5
+5145308879126528 draft bngx3
+2014-04-02
+lovEElven's
+Draft (THS/THS/THS)
+6
+5700564935507968 sealed bngx3
+2014-04-05
+ilyas.zhapakov's
+Draft (THS/THS/THS)
+6
+5660114799296512 constructed modern
+2014-04-30
+mushegoff's
+Draft (THS/THS/THS)
+7
+5682370246082560 draft bngx3
+2014-05-07
+timporin's
+Draft (Bng x3)
+7
+6024821678800896 constructed modern
+2014-05-10
+lovEElven's
+Draft (JOU/BNG/THS)
+7
+5383978198499328 broken tournament
+2014-05-10
+lovEElven's
+Draft (JOU/BNG/THS)
+7
+5693526155198464 constructed modern
+2014-05-17
+ilyas.zhapakov's
+Draft (JOU/BNG/THS)
+7
+4879689982148608 broken tournament
+2014-05-21
+mushegoff's
+Draft (JOU/BNG/THS)
+6
+5962592434520064 constructed modern
+2014-05-24
+mushegoff's
+Draft (JOU/BNG/THS)
+8
+6316398955462656 constructed modern
+2014-05-28
+mushegoff's
+Draft (JOU/BNG/THS)
+8
+4902935955767296 broken tournament
+2014-05-31
+mushegoff's
+Draft (JOU/BNG/THS)
+12
+5168974820016128 draft m14
+2014-05-31
+ilyas.zhapakov's
+Draft (JOU/BNG/THS)
+12
+5764857508921344 draft dgr
+2014-06-04
+mushegoff's
+Draft (JOU/BNG/THS)
+13
+5755221749792768 draft jbt
+2014-06-07
+mushegoff's
+Draft (JOU/BNG/THS)
+10
+5731142116311040 broken draftdgr
+2014-06-11
+ilyas.zhapakov's
+Draft (JOU/BNG/THS)
+10
+5156203835424768 draft ths
+2014-06-14
+timporin's
+Draft (JOU/BNG/THS)
+8
+5739780369285120 draft dgr
+2014-06-18
+timporin's
+Draft (JOU/BNG/THS)
+8
+5667659278450688 broken tournament
+2014-06-18
+mushegoff's
+Draft (JOU/BNG/THS)
+0
+5736393250701312 broken tournament
+2014-06-21
+timporin's
+Draft (JOU/BNG/THS)
+7
+5752696946556928 draft jbt
+2014-06-21
+lovEElven's
+Draft (JOU/BNG/THS)
+6
+5687585242349568 broken tournament
+2014-06-21
+lovEElven's
+Draft (JOU/BNG/THS)
+0
+5720089554845696 draft jbt
+2014-06-21
+lovEElven's
+Draft (JOU/BNG/THS)
+7
+4817128515436544 constructed modern
+2014-06-25
+timporin's
+Draft
+7
+5637738925654016 constructed modern
+2014-07-02
+mushegoff's
+Draft (JOU/BNG/THS)
+6
+5680219105001472 unknown tournament
+2014-07-09
+mushegoff's
+Draft (JOU/BNG/THS)
+8
+5742220179144704 constructed pauper
+2014-07-23
+mushegoff's
+Draft (JOU/BNG/THS)
+6
+5747474534760448 constructed modern
+2014-07-30
+mushegoff's
+Draft (JOU/BNG/THS)
+6
+5448711240941568 draft m15
+2014-08-20
+mushegoff's
+Draft (JOU/BNG/THS)
+12
+5856144723542016 alkodraft m15
+2014-08-22
+mushegoff's
+Draft (JOU/BNG/THS)
+9
+5091194270908416 draft m15
+2014-08-27
+mushegoff's
+Draft (JOU/BNG/THS)
+10
+5672479439716352 draft m15
+2014-08-29
+lovEElven's
+Draft (JOU/BNG/THS)
+6
+5122027841126400 broken tournament
+2014-08-29
+lovEElven's
+Draft (JOU/BNG/THS)
+0
+5085400360026112 draft m15
+2014-08-30
+ilyas.zhapakov's
+Draft (JOU/BNG/THS)
+6
+5674527065374720 draft ths
+2014-09-20
+ilyas.zhapakov's
+Draft (THS/THS/THS)
+7
+5131962637352960 constructed modern
+2014-09-24
+mushegoff's
+Draft (JOU/BNG/THS)
+8
+4797990275383296 draft ktk
+2014-09-27
+mushegoff's
+Draft (JOU/BNG/THS)
+8
+6271539867549696 draft ktk
+2014-10-01
+mushegoff's
+Draft (KTK/KTK/KTK)
+8
+5413958378848256 draft ktk
+2014-10-15
+mushegoff's
+Draft (KTK/KTK/KTK)
+10
+5070822704152576 draft m12
+2014-10-17
+mushegoff's
+Draft (M12)
+8
+5002835519340544 constructed modern
+2014-10-22
+lovEElven's
+Draft (KTK/KTK/KTK)
+5
+5394971133739008 draft ktk
+2014-10-29
+mushegoff's
+Draft (KTK/KTK/KTK)
+8
+5165928044036096 draft ktk
+2014-10-31
+mushegoff's
+Draft (KTK/KTK/KTK)
+9
+5667887314370560 draft ktk
+2014-11-05
+mushegoff's
+Draft (KTK/KTK/KTK)
+9
+4819841726808064 sealed ths
+2014-11-07
+lovEElven's
+Draft (theros)
+4
+5090108986359808 broken tournament
+2014-11-07
+lovEElven's
+Draft (KTK/KTK/KTK)
+0
+6582053923454976 draft ktk
+2014-11-12
+mushegoff's
+Draft (KTK/KTK/KTK)
+6
+6417238311567360 constructed modern
+2014-11-26
+mushegoff's
+Draft (KTK/KTK/KTK)
+6
+6212745254928384 draft rtr
+2014-12-03
+mushegoff's
+Draft (KTK/KTK/KTK)
+9
+6392861150937088 draft ktk
+2014-12-19
+mushegoff's
+Draft (KTK/KTK/KTK)
+8
+6210870703030272 forfun 2hg
+2014-12-28
+mushegoff's
+Draft (KTK/KTK/KTK)
+4
+4881698584002560 broken tournament
+2014-12-28
+mushegoff's
+Draft (KTK/KTK/KTK)
+0
+6384696619433984 draft innistrad
+2015-01-09
+mushegoff's
+Draft (KTK/KTK/KTK)
+11
+5424260327669760 constructed modern
+2015-01-14
+timporin's
+Draft (KTK/KTK/KTK)
+7
+5787696165289984 constructed modern
+2015-01-21
+mushegoff's
+Draft (KTK/KTK/KTK)
+10
+5508405179449344 sealed frf
+2015-01-28
+mushegoff's
+Draft (KTK/KTK/KTK)
+8
+4583810389770240 alkodraft rtr
+2015-01-31
+timporin's
+Draft (Rtr)
+10
+5212164105175040 broken tournament
+2015-01-31
+mushegoff's
+Draft (KTK/KTK/KTK)
+0
+5087578915078144 constructed standard
+2015-02-04
+timporin's
+Draft
+4
+6261015519952896 draft fkk
+2015-02-06
+timporin's
+Draft (KTK/KTK/FRF)
+10
+5674228498038784 constructed modern
+2015-02-11
+timporin's
+Draft (KTK/KTK/KTK)
+9
+6199361264418816 draft fkk
+2015-02-13
+timporin's
+Draft (FKK)
+10
+5108454603620352 constructed standard
+2015-02-18
+timporin's
+Draft (KTK/KTK/KTK)
+8
+5420372308525056 draft fkk
+2015-02-20
+timporin's
+Draft (KTK/frf/frf)
+11
+5149493016133632 broken tournament
+2015-02-25
+timporin's
+Draft
+8
+6036942244282368 draft fkk
+2015-02-27
+timporin's
+Draft (KTK/KTK/KTK)
+7
+6319458750562304 broken tournament
+2015-03-06
+timporin's
+Draft (KTK/KTK/KTK)
+0
+5762757974556672 constructed modern
+2015-03-04
+mushegoff's
+Draft (KTK/KTK/KTK)
+9
+6238910933893120 draft fkk
+2015-03-06
+timporin's
+Draft (KTK/KTK/KTK)
+8
+6066433637220352 draft fkk
+2015-03-11
+timporin's
+Draft (KTK/KTK/KTK)
+8
+6547602044616704 constructed standard
+2015-03-16
+timporin's
+Draft (KTK/KTK/KTK)
+6
+5014938670071808 broken tournament
+2015-03-26
+timporin's
+Draft (KTK/KTK/KTK)
+0
+5597579706368000 constructed standard
+2015-03-30
+timporin's
+Draft (KTK/KTK/KTK)
+7
+5207171474128896 constructed modern
+2015-04-02
+timporin's
+Draft (KTK/KTK/KTK)
+9
+5461985441349632 constructed standard
+2015-04-06
+timporin's
+Draft (KTK/KTK/KTK)
+9
+6376388273635328 constructed commander
+2015-04-09
+timporin's
+Draft
+6
+5763483555594240 draft ravnika
+2015-04-16
+mushegoff's
+Draft
+8
+6073610259136512 draft shadowmoor
+2015-04-17
+mushegoff's
+Draft
+6
+5041090457501696 constructed standard
+2015-04-23
+timporin's
+Draft
+8
+6263950324793344 draft dtkx3
+2015-04-23
+ilyas.zhapakov's
+Draft (DTK-DTK-DTK)
+7
+4841194089611264 broken tournament
+2015-04-26
+timporin's
+Draft (modern)
+8
+4509596844556288 broken tournament
+2015-04-26
+timporin's
+Draft (KTK/KTK/KTK)
+0
+4842157236027392 draft ddf
+2015-04-27
+timporin's
+Draft (KTK/KTK/KTK)
+10
+4749127170654208 constructed modern
+2015-04-30
+timporin's
+Draft (KTK/KTK/KTK)
+12
+6237533054697472 draft ddf
+2015-05-03
+lovEElven's
+Draft (dtk/dtk/frf)
+6
+5075040026492928 draft ddf
+2015-05-04
+mushegoff's
+Draft (dtk/dtk/frf)
+11
+5186971169193984 constructed standard
+2015-05-07
+ilyas.zhapakov's
+Draft (KTK/KTK/KTK)
+8
+6552053509783552 draft ddf
+2015-05-09
+ilyas.zhapakov's
+Draft (dtk/dtk/frf)
+7
+5728042559209472 draft ddf
+2015-05-11
+timporin's
+Draft (KTK/KTK/KTK)
+7
+4753273961578496 constructed modern
+2015-05-14
+timporin's
+Draft (KTK/KTK/KTK)
+6
+5802328313561088 draft ddf
+2015-05-16
+mushegoff's
+Draft (KTK/KTK/KTK)
+7
+5711143473512448 draft ddf
+2015-05-18
+ilyas.zhapakov's
+Draft (FRF/FRF/DTK)
+10
+5077352329510912 constructed modern
+2015-05-21
+timporin's
+Draft (KTK/KTK/KTK)
+8
+6316203433787392 constructed standard
+2015-05-25
+timporin's
+Draft (KTK/KTK/KTK)
+10
+5460001703329792 constructed modern
+2015-05-28
+timporin's
+Draft (KTK/KTK/KTK)
+8
+6054342498975744 constructed modern
+2015-06-04
+timporin's
+Draft (KTK/KTK/KTK)
+9
+6387898249117696 constructed modern
+2015-06-08
+timporin's
+Draft (KTK/KTK/KTK)
+11
+5122955218518016 draft mm2
+2015-06-11
+timporin's
+Draft (KTK/KTK/KTK)
+7
+5608415371984896 constructed standard
+2015-06-15
+timporin's
+Draft (KTK/KTK/KTK)
+7
+6237838534246400 constructed modern
+2015-06-18
+timporin's
+Draft (KTK/KTK/KTK)
+7
+5457241515753472 constructed standard 
+2015-06-22
+timporin's
+Draft (KTK/KTK/KTK)
+6
+5701635892314112 draft mm2
+2015-06-25
+timporin's
+Draft (KTK/KTK/KTK)
+7
+6375499081187328 funconstructed 2hgmodern
+2015-06-29
+timporin's
+Draft (KTK/KTK/KTK)
+4
+5989878663741440 constructed modern
+2015-07-02
+timporin's
+Draft (KTK/KTK/KTK)
+6
+5188637482287104 constructed modern
+2015-07-09
+timporin's
+Draft (KTK/KTK/KTK)
+9
+6485202209603584 constructed modern
+2015-07-13
+timporin's
+Draft (KTK/KTK/KTK)
+8
+5372421599133696 constructed modern
+2015-07-20
+timporin's
+Draft (KTK/KTK/KTK)
+7
+4733655809261568 constructed modern
+2015-07-23
+timporin's
+Draft (ORI/ORI/ORI)
+8
+4733849569329152 draft ori
+2015-08-03
+timporin's
+Draft (ORI/ORI/ORI)
+8
+4711116894633984 constructed standard
+2015-08-10
+timporin's
+Draft (ORI/ORI/ORI)
+7
+5943384887787520 draft ori
+2015-08-12
+timporin's
+Draft (ORI/ORI/ORI)
+10
+5729655453646848 draft ori
+2015-08-17
+timporin's
+Draft (ORI/ORI/ORI)
+6
+5661653286780928 draft ori
+2015-08-27
+timporin's
+Draft (ORI/ORI/ORI)
+6
+4869157732483072 sealed ori
+2015-08-31
+apakov's
+Draft (ORI/ORI/ORI)
+8
+6270706711003136 constructed tinyleaders
+2015-09-03
+timporin's
+Draft (ORI/ORI/ORI)
+7
+4558254713602048 draft ori
+2015-09-07
+mushegoff's
+Draft (ORI/ORI/ORI)
+6
+5930502351486976 constructed modern
+2015-09-10
+timporin's
+Draft (ORI/ORI/ORI)
+7
+5043161839697920 sealed ori
+2015-09-14
+timporin's
+Draft (ORI/ORI/ORI)
+4
+4906938361970688 constructed modern
+2015-09-17
+timporin's
+Draft (ORI/ORI/ORI)
+4
+5282154271473664 draft ori
+2015-09-21
+timporin's
+Draft (ORI/ORI/ORI)
+7
+5771692446056448 constructed modern
+2015-09-24
+timporin's
+Draft (ORI/ORI/ORI)
+10
+5405091217539072 constructed modern
+2015-10-01
+timporin's
+Draft (ORI/ORI/ORI)
+6
+5818919956774912 draft bfz
+2015-10-17
+timporin's
+Draft (BFZ/BFZ/BFZ)
+10
+6559677210951680 draft bfz
+2015-10-19
+lovEElven's
+Draft (BFZ/BFZ/BFZ)
+10
+6686708435255296 draft bfz
+2015-10-26
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+6529949594812416 draft bfz
+2015-10-30
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+7
+5866040579850240 constructed modern
+2015-11-15
+modern_league_s0
+Draft (BFZ/BFZ/BFZ)
+17
+5941022068572160 constructed standard
+2015-11-26
+timporin's
+Draft (BFZ/BFZ/BFZ)
+4
+5960580326227968 draft dgr
+2015-12-03
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+8
+5037033508569088 constructed modern
+2015-12-21
+mushegoff's
+Draft (BFZ/BFZ/BFZ)
+8
+6268485592154112 constructed modern
+2015-12-31
+modern_league_s1
+Draft (BFZ/BFZ/BFZ)
+10
+6013195957305344 constructed tinyleaders
+2016-01-07
+mushegoff's
+Draft (BFZ/BFZ/BFZ)
+6
+6633002285137920 draft bfz
+2016-01-11
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+6
+6323109523095552 funconstructed 2hgmodern
+2016-01-14
+timporin's
+Draft (KTK/KTK/KTK)
+4
+5049520723329024 draft bfz
+2016-01-18
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+6
+6560447402606592 constructed modern
+2016-01-21
+timporin's
+Draft (BFZ/BFZ/BFZ)
+10
+6256825292816384 draft bfz
+2016-01-25
+lovEElven's
+Draft (BFZ/BFZ/BFZ)
+6
+4973319950434304 constructed standard
+2016-01-28
+timporin's
+Draft (BFZ/BFZ/BFZ)
+7
+6193495731601408 constructed standard
+2016-02-25
+timporin's
+Draft (BFZ/BFZ/BFZ)
+4
+5582586864730112 constructed modern
+2016-03-14
+modern_league_s2
+Draft (BFZ/BFZ/BFZ)
+15
+4857061024202752 draft dgr
+2016-03-24
+timporin's
+Draft (BFZ/BFZ/BFZ)
+10
+6157404852977664 draft dgr
+2016-03-26
+ilyas.zhapakov's
+Draft (BFZ/BFZ/BFZ)
+7
+4917961848520704 draft dgr
+2016-03-28
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+6
+5918247383728128 constructed tinyleaders
+2016-03-31
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+4897700004757504 draft dgr
+2016-04-04
+lovEElven's
+Draft (BFZ/BFZ/BFZ)
+6
+6196376513806336 constructed standard
+2016-04-07
+timporin's
+Draft (BFZ/BFZ/BFZ)
+4
+5977355998724096 draft dgr
+2016-04-11
+pustttak's
+Draft (BFZ/BFZ/BFZ)
+6
+4871561907535872 draft soi
+2016-04-18
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+5915565109542912 draft soi
+2016-05-14
+ilyas.zhapakov's
+Draft (BFZ/BFZ/BFZ)
+7
+5887387976597504 draft soi
+2016-05-16
+ibraev.arman's
+Draft (BFZ/BFZ/BFZ)
+6
+4976457491152896 draft soi
+2016-05-23
+ibraev.arman's
+Draft (BFZ/BFZ/BFZ)
+6
+4837096808251392 constructed modern
+2016-06-09
+timporin's
+Draft (BFZ/BFZ/BFZ)
+7
+5592895625101312 constructed modern
+2016-06-11
+modern_league_s3
+Draft (BFZ/BFZ/BFZ)
+7
+6083085175095296 constructed modern
+2016-07-18
+timporin's
+Draft (BFZ/BFZ/BFZ)
+9
+6276713474424832 constructed modern
+2016-07-26
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+5194134319005696 constructed modern
+2016-08-02
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+6263296365690880 constructed modern
+2016-08-16
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+4924352390758400 constructed modern
+2016-08-23
+mushegoff's
+Draft (BFZ/BFZ/BFZ)
+8
+5050306601680896 constructed modern
+2016-08-29
+timporin's
+Draft (BFZ/BFZ/BFZ)
+8
+5996716067127296 constructed modern
+2016-09-06
+mushegoff's
+Draft (BFZ/BFZ/BFZ)
+10
+6260400349773824 constructed modern
+2016-09-13
+timporin's
+Draft (BFZ/BFZ/BFZ)
+10
+4830811492712448 constructed modern
+2016-09-20
+timporin's
+Draft (BFZ/BFZ/BFZ)
+10

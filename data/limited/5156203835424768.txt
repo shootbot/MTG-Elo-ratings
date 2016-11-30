@@ -1,0 +1,56 @@
+Round 1
+1	
+Aset vs Timba
+Timba wins 2-0
+2	
+Dark vs Matvei
+Dark wins 2-1
+3	
+Alex vs Ilka
+Alex wins 2-0
+4	
+Altair vs Akbar
+Altair wins 2-1
+Edit
+Round 2
+1	
+Dark (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+2	
+Alex (3 pts) vs Timba (3 pts)
+Timba wins 2-0
+3	
+Matvei (0 pts) vs Akbar (0 pts)
+Akbar wins 2-0
+4	
+Aset (0 pts) vs Ilka (0 pts)
+Ilka wins 2-1
+Edit
+Round 3
+1	
+Altair (6 pts) vs Timba (6 pts)
+Timba wins 2-0
+2	
+Alex (3 pts) vs Akbar (3 pts)
+Alex wins 2-1
+3	
+Dark (3 pts) vs Ilka (3 pts)
+Ilka wins 2-0
+4	
+Aset (0 pts) vs Matvei (0 pts)
+Draw 1-1
+Edit
+Round 4
+1	
+Timba (9 pts) vs Ilka (6 pts)
+Ilka wins 2-1
+2	
+Aset (1 pts) vs Altair (6 pts)
+Altair wins 2-1
+3	
+Alex (6 pts) vs Matvei (1 pts)
+Matvei wins 2-0
+4	
+Dark (3 pts) vs Akbar (3 pts)
+Akbar wins 2-0
+Edit

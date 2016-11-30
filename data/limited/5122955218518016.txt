@@ -1,0 +1,35 @@
+Round 1
+1	
+Daulet vs Dark
+Dark wins 2-0
+2	
+Nauryz vs Vlad
+Nauryz wins 2-0
+3	
+Altair vs Timba
+Timba wins 2-1
+4	
+Rex vs --- Bye ---
+Edit
+Round 2
+1	
+Dark (3 pts) vs Timba (3 pts)
+Timba wins 2-1
+2	
+Daulet (0 pts) vs Nauryz (3 pts)
+Daulet wins 2-1
+3	
+Altair (0 pts) vs Vlad (0 pts)
+Altair wins 2-1
+Edit
+Round 3
+1	
+Nauryz (3 pts) vs Timba (6 pts)
+Timba wins 2-1
+2	
+Altair (3 pts) vs Dark (3 pts)
+Dark wins 2-0
+3	
+Daulet (3 pts) vs Vlad (0 pts)
+Daulet wins 2-0
+Edit

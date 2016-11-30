@@ -1,0 +1,33 @@
+Round 1
+1	
+timba vs altair
+Draw 1-1
+2	
+daulet vs dauren
+daulet wins 2-0
+3	
+andan vs dark
+dark wins 2-0
+Edit
+Round 2
+1	
+daulet (3 pts) vs dark (3 pts)
+dark wins 2-0
+2	
+andan (0 pts) vs altair (1 pts)
+altair wins 2-0
+3	
+timba (1 pts) vs dauren (0 pts)
+timba wins 2-0
+Edit
+Round 3
+1	
+timba (4 pts) vs dark (6 pts)
+dark wins 2-0
+2	
+daulet (3 pts) vs altair (4 pts)
+altair wins 2-0
+3	
+andan (0 pts) vs dauren (0 pts)
+dauren wins 2-0
+Edit

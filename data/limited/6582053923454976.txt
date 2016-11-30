@@ -1,0 +1,33 @@
+Round 1
+1	
+Вова vs Даурен
+Вова wins 2-1
+2	
+Даулет vs Альтаир
+Draw 1-1
+3	
+Тимур vs Наурыз
+Тимур wins 2-0
+Edit
+Round 2
+1	
+Вова (3 pts) vs Тимур (3 pts)
+Тимур wins 2-1
+2	
+Даулет (1 pts) vs Наурыз (0 pts)
+Даулет wins 2-1
+3	
+Даурен (0 pts) vs Альтаир (1 pts)
+Альтаир wins 2-0
+Edit
+Round 3
+1	
+Даулет (4 pts) vs Тимур (6 pts)
+Тимур wins 2-0
+2	
+Вова (3 pts) vs Альтаир (4 pts)
+Альтаир wins 2-1
+3	
+Даурен (0 pts) vs Наурыз (0 pts)
+Наурыз wins 2-0
+Edit

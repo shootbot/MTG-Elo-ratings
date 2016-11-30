@@ -1,0 +1,33 @@
+Round 1
+1	
+Timba vs Aibek
+Timba wins 2-0
+2	
+Lena vs Alex
+Lena wins 2-0
+3	
+Nauryz vs Ilka
+Nauryz wins 2-0
+Edit
+Round 2
+1	
+Lena (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-0
+2	
+Timba (3 pts) vs Ilka (0 pts)
+Timba wins 2-0
+3	
+Aibek (0 pts) vs Alex (0 pts)
+Alex wins 2-0
+Edit
+Round 3
+1	
+Timba (6 pts) vs Nauryz (6 pts)
+Timba wins 2-0
+2	
+Alex (3 pts) vs Ilka (0 pts)
+Alex wins 2-1
+3	
+Lena (3 pts) vs Aibek (0 pts)
+Lena wins 1-0
+Edit

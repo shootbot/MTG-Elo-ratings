@@ -1,0 +1,24 @@
+Round 1
+1	
+Timba vs Nauryz
+Nauryz wins 2-1
+2	
+Loki vs Aibek
+Aibek wins 2-1
+Edit
+Round 2
+1	
+Timba (0 pts) vs Aibek (3 pts)
+Timba wins 2-0
+2	
+Loki (0 pts) vs Nauryz (3 pts)
+Loki wins 2-1
+Edit
+Round 3
+1	
+Timba (3 pts) vs Loki (3 pts)
+Timba wins 2-1
+2	
+Nauryz (3 pts) vs Aibek (3 pts)
+Aibek wins 2-1
+Edit

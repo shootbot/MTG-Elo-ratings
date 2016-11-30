@@ -1,0 +1,33 @@
+Round 1
+1	
+Андан vs Нурик
+Андан wins 2-1
+2	
+Дарк vs Никита
+Дарк wins 2-0
+3	
+Даник vs Илька
+Илька wins 2-0
+Edit
+Round 2
+1	
+Андан (3 pts) vs Дарк (3 pts)
+Дарк wins 2-0
+2	
+Нурик (0 pts) vs Илька (3 pts)
+Илька wins 2-0
+3	
+Даник (0 pts) vs Никита (0 pts)
+Даник wins 2-0
+Edit
+Round 3
+1	
+Дарк (6 pts) vs Илька (6 pts)
+Дарк wins 2-1
+2	
+Андан (3 pts) vs Даник (3 pts)
+Даник wins 2-0
+3	
+Нурик (0 pts) vs Никита (0 pts)
+Никита wins 2-0
+Edit

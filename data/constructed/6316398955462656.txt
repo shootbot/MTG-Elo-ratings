@@ -1,0 +1,42 @@
+Round 1
+1	
+Саша vs Асет
+Асет wins 2-0
+2	
+Альтаир vs Андан
+Андан wins 2-0
+3	
+Илька vs Вова
+Вова wins 2-1
+4	
+Даулет vs Данияр
+Даулет wins 2-0
+Edit
+Round 2
+1	
+Даулет (3 pts) vs Андан (3 pts)
+Даулет wins 2-0
+2	
+Асет (3 pts) vs Вова (3 pts)
+Вова wins 2-0
+3	
+Альтаир (0 pts) vs Данияр (0 pts)
+Альтаир wins 1-0
+4	
+Саша (0 pts) vs Илька (0 pts)
+Илька wins 2-0
+Edit
+Round 3
+1	
+Даулет (6 pts) vs Вова (6 pts)
+Вова wins 2-1
+2	
+Асет (3 pts) vs Андан (3 pts)
+Асет wins 2-0
+3	
+Альтаир (3 pts) vs Илька (3 pts)
+Илька wins 2-0
+4	
+Саша (0 pts) vs Данияр (0 pts)
+Данияр wins 2-0
+Edit

@@ -1,0 +1,33 @@
+Round 1
+1	
+vlad vs nauriz
+nauriz wins 2-1
+2	
+alex vs aset
+Draw 1-1
+3	
+sula vs daulet
+Draw 1-1
+Edit
+Round 2
+1	
+sula (1 pts) vs nauriz (3 pts)
+nauriz wins 2-1
+2	
+aset (1 pts) vs daulet (1 pts)
+daulet wins 2-1
+3	
+vlad (0 pts) vs alex (1 pts)
+alex wins 2-0
+Edit
+Round 3
+1	
+nauriz (6 pts) vs daulet (4 pts)
+nauriz wins 2-1
+2	
+alex (4 pts) vs sula (1 pts)
+alex wins 2-0
+3	
+vlad (0 pts) vs aset (1 pts)
+vlad wins 2-0
+Edit

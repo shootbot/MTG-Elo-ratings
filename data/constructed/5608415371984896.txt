@@ -1,0 +1,39 @@
+Round 1
+1	
+Altair vs Slava
+Slava wins 2-1
+2	
+Timba vs Sula
+Timba wins 2-0
+3	
+Daulet vs Lena
+Lena wins 2-0
+4	
+Nauryz vs --- Bye ---
+Edit
+Round 2
+1	
+Timba (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-0
+2	
+Slava (3 pts) vs Lena (3 pts)
+Lena wins 2-1
+3	
+Sula (0 pts) vs --- Bye ---
+4	
+Altair (0 pts) vs Daulet (0 pts)
+Altair wins 2-0
+Edit
+Round 3
+1	
+Nauryz (6 pts) vs Lena (6 pts)
+Nauryz wins 2-1
+2	
+Altair (3 pts) vs Sula (3 pts)
+Draw 1-1
+3	
+Timba (3 pts) vs Slava (3 pts)
+Timba wins 2-1
+4	
+Daulet (0 pts) vs --- Bye ---
+Edit

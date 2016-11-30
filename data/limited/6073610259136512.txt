@@ -1,0 +1,33 @@
+Round 1
+1	
+Наурыз vs Саша
+Саша wins 2-1
+2	
+Вова vs Айбек
+Вова wins 2-1
+3	
+Даурен vs Альтаир
+Альтаир wins 2-0
+Edit
+Round 2
+1	
+Саша (3 pts) vs Альтаир (3 pts)
+Альтаир wins 2-1
+2	
+Наурыз (0 pts) vs Вова (3 pts)
+Вова wins 2-1
+3	
+Даурен (0 pts) vs Айбек (0 pts)
+Даурен wins 2-1
+Edit
+Round 3
+1	
+Вова (6 pts) vs Альтаир (6 pts)
+Draw 1-1
+2	
+Даурен (3 pts) vs Саша (3 pts)
+Даурен wins 2-1
+3	
+Наурыз (0 pts) vs Айбек (0 pts)
+Наурыз wins 2-0
+Edit

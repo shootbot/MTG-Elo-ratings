@@ -1,0 +1,77 @@
+Round 1
+1	
+Timba vs Vlad
+Vlad wins 2-1
+2	
+Daulet vs Alex
+Daulet wins 2-1
+3	
+Lena vs Dauren
+Lena wins 2-1
+4	
+Aset vs Vova
+Vova wins 2-0
+5	
+Aibek vs Marat
+Marat wins 2-0
+6	
+Nauryz vs Altair
+Nauryz wins 2-0
+Edit
+Round 2
+1	
+Lena (3 pts) vs Marat (3 pts)
+Lena wins 2-0
+2	
+Daulet (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-0
+3	
+Vlad (3 pts) vs Vova (3 pts)
+Vlad wins 2-0
+4	
+Timba (0 pts) vs Alex (0 pts)
+Timba wins 2-0
+5	
+Aibek (0 pts) vs Dauren (0 pts)
+Dauren wins 2-1
+6	
+Altair (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Nauryz (6 pts) vs Vlad (6 pts)
+Vlad wins 2-0
+2	
+Lena (6 pts) vs Altair (3 pts)
+Draw 1-1
+3	
+Vova (3 pts) vs Marat (3 pts)
+Vova wins 2-1
+4	
+Daulet (3 pts) vs Dauren (3 pts)
+Dauren wins 2-0
+5	
+Timba (3 pts) vs Aibek (0 pts)
+Timba wins 2-0
+6	
+Alex (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Lena (7 pts) vs Vlad (9 pts)
+Lena wins 2-1
+2	
+Nauryz (6 pts) vs Dauren (6 pts)
+Nauryz wins 2-0
+3	
+Timba (6 pts) vs Vova (6 pts)
+Timba wins 2-0
+4	
+Alex (3 pts) vs Altair (4 pts)
+Altair wins 2-0
+5	
+Daulet (3 pts) vs Marat (3 pts)
+Daulet wins 2-0
+6	
+Aibek (0 pts) vs --- Bye ---
+Edit

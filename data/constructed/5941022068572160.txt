@@ -1,0 +1,24 @@
+Round 1
+1	
+Timba vs Aset
+Timba wins 2-1
+2	
+Altair vs Il'ka
+Altair wins 2-0
+Edit
+Round 2
+1	
+Timba (3 pts) vs Altair (3 pts)
+Timba wins 2-1
+2	
+Aset (0 pts) vs Il'ka (0 pts)
+Aset wins 2-1
+Edit
+Round 3
+1	
+Timba (6 pts) vs Il'ka (0 pts)
+Il'ka wins 2-1
+2	
+Altair (3 pts) vs Aset (3 pts)
+Altair wins 2-0
+Edit

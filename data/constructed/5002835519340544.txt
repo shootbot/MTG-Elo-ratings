@@ -1,0 +1,30 @@
+Round 1
+1	
+hellcat vs altair
+altair wins 2-0
+2	
+pod vs uvr
+uvr wins 2-1
+3	
+4cgoodstaff vs --- Bye ---
+Edit
+Round 2
+1	
+uvr (3 pts) vs 4cgoodstaff (3 pts)
+uvr wins 2-0
+2	
+altair (3 pts) vs pod (0 pts)
+Draw 1-1
+3	
+hellcat (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+altair (4 pts) vs uvr (6 pts)
+altair wins 2-0
+2	
+hellcat (3 pts) vs 4cgoodstaff (3 pts)
+hellcat wins 2-0
+3	
+pod (1 pts) vs --- Bye ---
+Edit

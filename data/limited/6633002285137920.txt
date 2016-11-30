@@ -1,0 +1,33 @@
+Round 1
+1	
+Илька vs Наурыз
+Наурыз wins 2-0
+2	
+Айбек vs Саша
+Саша wins 2-0
+3	
+Альтаир vs Дарк
+Дарк wins 2-1
+Edit
+Round 2
+1	
+Саша (3 pts) vs Дарк (3 pts)
+Дарк wins 2-0
+2	
+Айбек (0 pts) vs Наурыз (3 pts)
+Наурыз wins 2-1
+3	
+Илька (0 pts) vs Альтаир (0 pts)
+Илька wins 2-0
+Edit
+Round 3
+1	
+Наурыз (6 pts) vs Дарк (6 pts)
+Дарк wins 2-0
+2	
+Илька (3 pts) vs Саша (3 pts)
+Илька wins 2-0
+3	
+Айбек (0 pts) vs Альтаир (0 pts)
+Draw 1-1
+Edit

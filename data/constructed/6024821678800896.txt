@@ -1,0 +1,39 @@
+Round 1
+1	
+матвей vs вова
+вова wins 2-1
+2	
+данияр vs даулет
+данияр wins 2-0
+3	
+даурен vs илька
+илька wins 2-0
+4	
+саша vs --- Bye ---
+Edit
+Round 2
+1	
+данияр (3 pts) vs саша (3 pts)
+саша wins 2-1
+2	
+вова (3 pts) vs илька (3 pts)
+вова wins 2-0
+3	
+матвей (0 pts) vs даурен (0 pts)
+даурен wins 2-0
+4	
+даулет (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+саша (6 pts) vs вова (6 pts)
+вова wins 2-1
+2	
+данияр (3 pts) vs илька (3 pts)
+данияр wins 2-0
+3	
+даурен (3 pts) vs даулет (3 pts)
+даулет wins 2-1
+4	
+матвей (0 pts) vs --- Bye ---
+Edit

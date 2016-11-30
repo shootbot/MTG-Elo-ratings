@@ -1,0 +1,33 @@
+Round 1
+1	
+Альтаир vs Наурыз
+Альтаир wins 2-0
+2	
+Саша vs Никита
+Саша wins 2-0
+3	
+Вова vs Тима
+Тима wins 2-0
+Edit
+Round 2
+1	
+Саша (3 pts) vs Тима (3 pts)
+Тима wins 2-0
+2	
+Альтаир (3 pts) vs Никита (0 pts)
+Альтаир wins 2-0
+3	
+Вова (0 pts) vs Наурыз (0 pts)
+Вова wins 2-0
+Edit
+Round 3
+1	
+Альтаир (6 pts) vs Тима (6 pts)
+Альтаир wins 2-1
+2	
+Саша (3 pts) vs Вова (3 pts)
+Вова wins 2-1
+3	
+Наурыз (0 pts) vs Никита (0 pts)
+Наурыз wins 2-0
+Edit

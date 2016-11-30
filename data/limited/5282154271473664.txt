@@ -1,0 +1,39 @@
+Round 1
+1	
+Timba vs Mnogolikiy
+Timba wins 2-0
+2	
+Slava vs Altair
+Altair wins 2-0
+3	
+Aibek vs Sula
+Sula wins 2-0
+4	
+Dark vs --- Bye ---
+Edit
+Round 2
+1	
+Dark (3 pts) vs Altair (3 pts)
+Dark wins 2-0
+2	
+Timba (3 pts) vs Sula (3 pts)
+Sula wins 2-0
+3	
+Aibek (0 pts) vs Mnogolikiy (0 pts)
+Mnogolikiy wins 2-0
+4	
+Slava (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Dark (6 pts) vs Sula (6 pts)
+Dark wins 2-1
+2	
+Timba (3 pts) vs Altair (3 pts)
+Timba wins 2-0
+3	
+Slava (3 pts) vs Mnogolikiy (3 pts)
+Slava wins 2-0
+4	
+Aibek (0 pts) vs --- Bye ---
+Edit

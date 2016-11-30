@@ -1,0 +1,64 @@
+Round 1
+1	
+altair vs dauren
+Draw 1-1
+2	
+vic vs spawn
+vic wins 2-0
+3	
+sasha vs dark
+dark wins 2-1
+4	
+nurik vs timba
+timba wins 2-0
+5	
+daulet vs --- Bye ---
+Edit
+Round 2
+1	
+dark (3 pts) vs timba (3 pts)
+Draw 1-1
+2	
+vic (3 pts) vs daulet (3 pts)
+vic wins 2-0
+3	
+nurik (0 pts) vs dauren (1 pts)
+dauren wins 2-0
+4	
+altair (1 pts) vs spawn (0 pts)
+Draw 1-1
+5	
+sasha (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+vic (6 pts) vs dark (4 pts)
+vic wins 2-0
+2	
+dauren (4 pts) vs timba (4 pts)
+dauren wins 2-0
+3	
+sasha (3 pts) vs daulet (3 pts)
+daulet wins 2-0
+4	
+altair (2 pts) vs nurik (0 pts)
+altair wins 2-0
+5	
+spawn (1 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+vic (9 pts) vs dauren (7 pts)
+dauren wins 2-0
+2	
+altair (5 pts) vs daulet (6 pts)
+daulet wins 2-0
+3	
+spawn (4 pts) vs dark (4 pts)
+spawn wins 2-0
+4	
+sasha (3 pts) vs timba (4 pts)
+timba wins 2-0
+5	
+nurik (0 pts) vs --- Bye ---
+Edit

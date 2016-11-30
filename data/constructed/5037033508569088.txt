@@ -1,0 +1,56 @@
+Round 1
+1	
+Даулет vs Тимур
+Даулет wins 2-1
+2	
+Локи vs Сула
+Сула wins 2-0
+3	
+Наурыз vs Лена
+Наурыз wins 2-1
+4	
+Альтаир vs Вова
+Draw 1-1
+Edit
+Round 2
+1	
+Даулет (3 pts) vs Наурыз (3 pts)
+Даулет wins 2-0
+2	
+Альтаир (1 pts) vs Сула (3 pts)
+Draw 1-1
+3	
+Локи (0 pts) vs Вова (1 pts)
+Локи wins 2-0
+4	
+Тимур (0 pts) vs Лена (0 pts)
+Тимур wins 2-0
+Edit
+Round 3
+1	
+Даулет (6 pts) vs Сула (4 pts)
+Даулет wins 2-1
+2	
+Локи (3 pts) vs Тимур (3 pts)
+Тимур wins 2-0
+3	
+Наурыз (3 pts) vs Альтаир (2 pts)
+Наурыз wins 2-0
+4	
+Лена (0 pts) vs Вова (1 pts)
+Вова wins 2-1
+Edit
+Round 4
+1	
+Даулет (9 pts) vs Вова (4 pts)
+Draw 1-1
+2	
+Наурыз (6 pts) vs Тимур (6 pts)
+Наурыз wins 2-1
+3	
+Сула (4 pts) vs Лена (0 pts)
+Draw 1-1
+4	
+Локи (3 pts) vs Альтаир (2 pts)
+Draw 1-1
+Edit

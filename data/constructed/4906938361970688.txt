@@ -1,0 +1,24 @@
+Round 1
+1	
+Spawn vs Lena
+Lena wins 2-0
+2	
+Timba vs Altair
+Altair wins 2-0
+Edit
+Round 2
+1	
+Lena (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+2	
+Spawn (0 pts) vs Timba (0 pts)
+Spawn wins 2-1
+Edit
+Round 3
+1	
+Spawn (3 pts) vs Altair (6 pts)
+Spawn wins 2-1
+2	
+Timba (0 pts) vs Lena (3 pts)
+Timba wins 2-0
+Edit

@@ -1,0 +1,42 @@
+Round 1
+1	
+Айбек vs Наурыз
+Наурыз wins 2-0
+2	
+Саша vs Никита
+Саша wins 2-0
+3	
+Влад vs Вова
+Вова wins 2-0
+4	
+Даулет vs Даурен
+Даурен wins 2-0
+Edit
+Round 2
+1	
+Наурыз (3 pts) vs Вова (3 pts)
+Наурыз wins 2-1
+2	
+Саша (3 pts) vs Даурен (3 pts)
+Даурен wins 2-1
+3	
+Даулет (0 pts) vs Никита (0 pts)
+Даулет wins 2-0
+4	
+Айбек (0 pts) vs Влад (0 pts)
+Айбек wins 1-0
+Edit
+Round 3
+1	
+Наурыз (6 pts) vs Даурен (6 pts)
+Наурыз wins 2-1
+2	
+Саша (3 pts) vs Даулет (3 pts)
+Саша wins 2-0
+3	
+Айбек (3 pts) vs Вова (3 pts)
+Вова wins 2-0
+4	
+Влад (0 pts) vs Никита (0 pts)
+Draw 1-1
+Edit

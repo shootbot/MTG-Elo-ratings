@@ -1,0 +1,39 @@
+Round 1
+1	
+Tima vs Daulet
+Tima wins 2-1
+2	
+Altair vs Alex
+Altair wins 2-0
+3	
+Spawn vs Ilka
+Ilka wins 2-0
+4	
+Dauren vs --- Bye ---
+Edit
+Round 2
+1	
+Tima (3 pts) vs Ilka (3 pts)
+Tima wins 2-1
+2	
+Altair (3 pts) vs Dauren (3 pts)
+Altair wins 2-0
+3	
+Spawn (0 pts) vs Daulet (0 pts)
+Spawn wins 2-0
+4	
+Alex (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Tima (6 pts) vs Altair (6 pts)
+Altair wins 2-0
+2	
+Alex (3 pts) vs Ilka (3 pts)
+Alex wins 2-1
+3	
+Spawn (3 pts) vs Dauren (3 pts)
+Spawn wins 2-0
+4	
+Daulet (0 pts) vs --- Bye ---
+Edit

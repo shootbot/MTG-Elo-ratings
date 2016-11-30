@@ -1,0 +1,39 @@
+Round 1
+1	
+Lena vs Alex
+Lena wins 1-0
+2	
+Sula vs Marat
+Sula wins 2-0
+3	
+Timur vs Vlad
+Timur wins 2-1
+4	
+Nauryz vs --- Bye ---
+Edit
+Round 2
+1	
+Lena (3 pts) vs Timur (3 pts)
+Timur wins 2-1
+2	
+Sula (3 pts) vs Nauryz (3 pts)
+Nauryz wins 2-0
+3	
+Alex (0 pts) vs Vlad (0 pts)
+Alex wins 2-1
+4	
+Marat (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Timur (6 pts) vs Nauryz (6 pts)
+Timur wins 2-1
+2	
+Lena (3 pts) vs Sula (3 pts)
+Lena wins 2-0
+3	
+Alex (3 pts) vs Marat (3 pts)
+Alex wins 2-1
+4	
+Vlad (0 pts) vs --- Bye ---
+Edit

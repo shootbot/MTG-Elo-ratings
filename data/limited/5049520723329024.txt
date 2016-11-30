@@ -1,0 +1,33 @@
+Round 1
+1	
+Altair vs Strannica
+Draw 1-1
+2	
+Nauryz vs Ilka
+Ilka wins 2-0
+3	
+Sasha vs Loki
+Loki wins 2-0
+Edit
+Round 2
+1	
+Ilka (3 pts) vs Loki (3 pts)
+Loki wins 2-0
+2	
+Altair (1 pts) vs Nauryz (0 pts)
+Altair wins 2-0
+3	
+Sasha (0 pts) vs Strannica (1 pts)
+Draw 1-1
+Edit
+Round 3
+1	
+Altair (4 pts) vs Loki (6 pts)
+Altair wins 2-1
+2	
+Strannica (2 pts) vs Ilka (3 pts)
+Strannica wins 2-0
+3	
+Nauryz (0 pts) vs Sasha (1 pts)
+Sasha wins 2-0
+Edit

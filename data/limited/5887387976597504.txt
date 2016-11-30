@@ -1,0 +1,33 @@
+Round 1
+1	
+Dark vs Loki
+Loki wins 2-1
+2	
+Ablai vs Aybek
+Aybek wins 2-1
+3	
+Mnogolikiy vs Nauryz
+Nauryz wins 2-0
+Edit
+Round 2
+1	
+Loki (3 pts) vs Nauryz (3 pts)
+Loki wins 2-0
+2	
+Mnogolikiy (0 pts) vs Aybek (3 pts)
+Aybek wins 2-0
+3	
+Dark (0 pts) vs Ablai (0 pts)
+Dark wins 2-0
+Edit
+Round 3
+1	
+Loki (6 pts) vs Aybek (6 pts)
+Loki wins 2-0
+2	
+Dark (3 pts) vs Nauryz (3 pts)
+Dark wins 2-0
+3	
+Ablai (0 pts) vs Mnogolikiy (0 pts)
+Ablai wins 2-0
+Edit

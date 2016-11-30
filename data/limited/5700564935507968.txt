@@ -1,0 +1,27 @@
+Round 1
+1	
+daniyar vs daulet
+daulet wins 2-1
+2	
+vova vs alex
+vova wins 2-0
+3	
+dark vs ilka
+dark wins 2-0
+Edit
+Round 2
+1	
+dark (3 pts) vs alex (0 pts)
+dark wins 2-0
+2	
+daniyar (0 pts) vs ilka (0 pts)
+daniyar wins 2-0
+Edit
+Round 3
+1	
+daniyar (3 pts) vs dark (6 pts)
+dark wins 2-1
+2	
+alex (0 pts) vs ilka (0 pts)
+ilka wins 2-0
+Edit

@@ -1,0 +1,38 @@
+Round 1
+1	
+Тима vs Альтаир
+Тима wins 2-0
+2	
+Илька vs Дарк
+Илька wins 2-0
+3	
+Даурен vs Вова
+Вова wins 2-1
+4	
+Данияр vs Саша
+Данияр wins 2-1
+Edit
+Round 2
+1	
+Илька (3 pts) vs Данияр (3 pts)
+Данияр wins 2-0
+2	
+Тима (3 pts) vs Вова (3 pts)
+Вова wins 2-1
+3	
+Даурен (0 pts) vs Альтаир (0 pts)
+Альтаир wins 2-0
+4	
+Саша (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Данияр (6 pts) vs Вова (6 pts)
+Click to enter result
+2	
+Альтаир (3 pts) vs Саша (3 pts)
+Саша wins 2-1
+3	
+Тима (3 pts) vs Даурен (0 pts)
+Тима wins 2-0
+Edit

@@ -1,0 +1,44 @@
+Round 1
+1	
+Альтаир vs Rex
+Альтаир wins 1-0
+2	
+Лена vs Саша
+Лена wins 2-1
+3	
+Тима vs Вова
+Draw 1-1
+Edit
+Round 2
+1	
+Альтаир (3 pts) vs Лена (3 pts)
+Draw 1-1
+2	
+Саша (0 pts) vs Вова (1 pts)
+Вова wins 2-0
+3	
+Тима (1 pts) vs Rex (0 pts)
+Тима wins 2-0
+Edit
+Round 3
+1	
+Альтаир (4 pts) vs Тима (4 pts)
+Тима wins 2-0
+2	
+Лена (4 pts) vs Вова (4 pts)
+Лена wins 2-1
+3	
+Rex (0 pts) vs Саша (0 pts)
+Rex wins 2-0
+Edit
+Round 4
+1	
+Лена (7 pts) vs Тима (7 pts)
+Draw 1-1
+2	
+Альтаир (4 pts) vs Саша (0 pts)
+Альтаир wins 2-0
+3	
+Rex (3 pts) vs Вова (4 pts)
+Вова wins 2-0
+Edit

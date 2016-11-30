@@ -1,0 +1,42 @@
+Round 1
+1	
+Timur vs Sula
+Timur wins 2-0
+2	
+Nauryz vs Daulet
+Daulet wins 2-1
+3	
+Altair vs Rex
+Altair wins 2-1
+4	
+Vova vs Lena
+Vova wins 2-0
+Edit
+Round 2
+1	
+Vova (3 pts) vs Daulet (3 pts)
+Vova wins 2-0
+2	
+Timur (3 pts) vs Altair (3 pts)
+Timur wins 2-0
+3	
+Sula (0 pts) vs Rex (0 pts)
+Rex wins 2-1
+4	
+Nauryz (0 pts) vs Lena (0 pts)
+Nauryz wins 2-0
+Edit
+Round 3
+1	
+Timur (6 pts) vs Vova (6 pts)
+Vova wins 2-0
+2	
+Nauryz (3 pts) vs Rex (3 pts)
+Nauryz wins 2-1
+3	
+Altair (3 pts) vs Daulet (3 pts)
+Altair wins 2-0
+4	
+Sula (0 pts) vs Lena (0 pts)
+Sula wins 2-1
+Edit

@@ -1,0 +1,39 @@
+Round 1
+1	
+spawn vs timba
+spawn wins 2-0
+2	
+dauren vs sasha
+dauren wins 2-0
+3	
+daulet vs dark
+dark wins 2-1
+4	
+ilka vs --- Bye ---
+Edit
+Round 2
+1	
+dauren (3 pts) vs ilka (3 pts)
+ilka wins 2-1
+2	
+spawn (3 pts) vs dark (3 pts)
+dark wins 2-0
+3	
+daulet (0 pts) vs timba (0 pts)
+daulet wins 2-1
+4	
+sasha (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+ilka (6 pts) vs dark (6 pts)
+ilka wins 2-1
+2	
+daulet (3 pts) vs sasha (3 pts)
+sasha wins 2-1
+3	
+spawn (3 pts) vs dauren (3 pts)
+spawn wins 2-0
+4	
+timba (0 pts) vs --- Bye ---
+Edit

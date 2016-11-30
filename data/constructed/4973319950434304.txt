@@ -1,0 +1,39 @@
+Round 1
+1	
+Lena vs Rex
+Lena wins 2-0
+2	
+Slava vs Timba
+Timba wins 2-0
+3	
+Altair vs Aibek
+Altair wins 2-0
+4	
+Nauryz vs --- Bye ---
+Edit
+Round 2
+1	
+Nauryz (3 pts) vs Timba (3 pts)
+Nauryz wins 2-0
+2	
+Lena (3 pts) vs Altair (3 pts)
+Altair wins 2-0
+3	
+Rex (0 pts) vs Aibek (0 pts)
+Aibek wins 2-0
+4	
+Slava (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Altair (6 pts) vs Nauryz (6 pts)
+Nauryz wins 2-0
+2	
+Timba (3 pts) vs Aibek (3 pts)
+Timba wins 2-0
+3	
+Lena (3 pts) vs Slava (3 pts)
+Lena wins 2-0
+4	
+Rex (0 pts) vs --- Bye ---
+Edit

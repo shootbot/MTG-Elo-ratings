@@ -1,0 +1,56 @@
+Round 1
+1	
+Nauryz vs Dark
+Dark wins 2-1
+2	
+Altair vs Aibek
+Altair wins 2-1
+3	
+Timba vs Sula
+Timba wins 2-0
+4	
+Alex vs Vova
+Vova wins 2-0
+Edit
+Round 2
+1	
+Timba (3 pts) vs Dark (3 pts)
+Draw 1-1
+2	
+Altair (3 pts) vs Vova (3 pts)
+Vova wins 2-0
+3	
+Alex (0 pts) vs Aibek (0 pts)
+Aibek wins 2-0
+4	
+Nauryz (0 pts) vs Sula (0 pts)
+Nauryz wins 2-0
+Edit
+Round 3
+1	
+Nauryz (3 pts) vs Aibek (3 pts)
+Nauryz wins 2-0
+2	
+Altair (3 pts) vs Timba (4 pts)
+Timba wins 2-0
+3	
+Alex (0 pts) vs Sula (0 pts)
+Alex wins 2-0
+4	
+Dark (4 pts) vs Vova (6 pts)
+Dark wins 2-0
+Edit
+Round 4
+1	
+Dark (7 pts) vs Aibek (3 pts)
+Dark wins 2-0
+2	
+Timba (7 pts) vs Vova (6 pts)
+Timba wins 2-0
+3	
+Nauryz (6 pts) vs Alex (3 pts)
+Nauryz wins 2-0
+4	
+Altair (3 pts) vs Sula (0 pts)
+Altair wins 2-0
+Edit

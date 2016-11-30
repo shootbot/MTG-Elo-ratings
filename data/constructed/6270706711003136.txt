@@ -1,0 +1,39 @@
+Round 1
+1	
+Timba vs Rex
+Timba wins 2-1
+2	
+Aibek vs Alex
+Alex wins 2-0
+3	
+Altair vs Spawn
+Draw 1-1
+4	
+Slava vs --- Bye ---
+Edit
+Round 2
+1	
+Timba (3 pts) vs Altair (1 pts)
+Altair wins 2-1
+2	
+Slava (3 pts) vs Alex (3 pts)
+Alex wins 2-0
+3	
+Rex (0 pts) vs Spawn (1 pts)
+Spawn wins 2-0
+4	
+Aibek (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Altair (4 pts) vs Alex (6 pts)
+Alex wins 2-0
+2	
+Slava (3 pts) vs Spawn (4 pts)
+Spawn wins 2-0
+3	
+Timba (3 pts) vs Aibek (3 pts)
+Timba wins 2-0
+4	
+Rex (0 pts) vs --- Bye ---
+Edit

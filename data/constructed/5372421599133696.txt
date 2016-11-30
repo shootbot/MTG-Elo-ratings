@@ -1,0 +1,39 @@
+Round 1
+1	
+Timba vs Vlad
+Timba wins 2-0
+2	
+Lena vs Alex
+Alex wins 2-0
+3	
+Altair vs Rex
+Rex wins 2-0
+4	
+Daniyar vs --- Bye ---
+Edit
+Round 2
+1	
+Timba (3 pts) vs Daniyar (3 pts)
+Timba wins 2-1
+2	
+Lena (0 pts) vs Vlad (0 pts)
+Vlad wins 2-0
+3	
+Altair (0 pts) vs --- Bye ---
+4	
+Alex (3 pts) vs Rex (3 pts)
+Rex wins 2-0
+Edit
+Round 3
+1	
+Timba (6 pts) vs Rex (6 pts)
+Timba wins 2-0
+2	
+Lena (0 pts) vs --- Bye ---
+3	
+Altair (3 pts) vs Daniyar (3 pts)
+Daniyar wins 2-1
+4	
+Vlad (3 pts) vs Alex (3 pts)
+Vlad wins 2-0
+Edit

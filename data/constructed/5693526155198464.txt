@@ -1,0 +1,37 @@
+Round 1
+1	
+daniyar vs timba
+timba wins 2-0
+2	
+altair vs spawn
+spawn wins 2-0
+3	
+alex vs matvei
+alex wins 2-1
+4	
+ilka vs --- Bye ---
+Edit
+Round 2
+1	
+alex (3 pts) vs timba (3 pts)
+timba wins 2-1
+2	
+ilka (3 pts) vs spawn (3 pts)
+spawn wins 2-0
+3	
+daniyar (0 pts) vs matvei (0 pts)
+daniyar wins 2-0
+4	
+altair (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+timba (6 pts) vs spawn (6 pts)
+spawn wins 2-1
+2	
+ilka (3 pts) vs matvei (0 pts)
+ilka wins 2-0
+3	
+daniyar (3 pts) vs alex (3 pts)
+alex wins 2-1
+Edit

@@ -1,0 +1,68 @@
+Round 1
+1	
+Vovan vs Nauryz
+Nauryz wins 2-1
+2	
+Altair vs Dauren
+Dauren wins 1-0
+3	
+Alex vs Dark
+Dark wins 2-0
+4	
+Ablai vs Timba
+Timba wins 2-1
+5	
+Aibek vs Aset
+Aset wins 2-0
+Edit
+Round 2
+1	
+Dauren (3 pts) vs Aset (3 pts)
+Dauren wins 2-1
+2	
+Nauryz (3 pts) vs Dark (3 pts)
+Nauryz wins 2-0
+3	
+Altair (0 pts) vs Timba (3 pts)
+Draw 1-1
+4	
+Ablai (0 pts) vs Aibek (0 pts)
+Ablai wins 2-0
+5	
+Vovan (0 pts) vs Alex (0 pts)
+Alex wins 2-1
+Edit
+Round 3
+1	
+Nauryz (6 pts) vs Dauren (6 pts)
+Dauren wins 2-1
+2	
+Timba (4 pts) vs Aset (3 pts)
+Aset wins 2-0
+3	
+Alex (3 pts) vs Ablai (3 pts)
+Alex wins 2-0
+4	
+Altair (1 pts) vs Dark (3 pts)
+Draw 1-1
+5	
+Vovan (0 pts) vs Aibek (0 pts)
+Vovan wins 2-1
+Edit
+Round 4
+1	
+Alex (6 pts) vs Dauren (9 pts)
+Alex wins 2-0
+2	
+Nauryz (6 pts) vs Aset (6 pts)
+Draw 1-1
+3	
+Dark (4 pts) vs Timba (4 pts)
+Timba wins 2-1
+4	
+Vovan (3 pts) vs Ablai (3 pts)
+Vovan wins 2-0
+5	
+Altair (2 pts) vs Aibek (0 pts)
+Altair wins 2-1
+Edit

@@ -1,0 +1,52 @@
+Round 1
+1	
+Ильяс vs Тима
+Тима wins 2-0
+2	
+Данияр vs Альтаир
+Данияр wins 2-0
+3	
+Саша vs --- Bye ---
+4	
+Даулет vs Вова
+Вова wins 2-0
+Edit
+Round 2
+1	
+Данияр (3 pts) vs Тима (3 pts)
+Данияр wins 1-0
+2	
+Саша (3 pts) vs Вова (3 pts)
+Вова wins 2-0
+3	
+Даулет (0 pts) vs Альтаир (0 pts)
+Draw 1-1
+4	
+Ильяс (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+Данияр (6 pts) vs Вова (6 pts)
+Вова wins 2-0
+2	
+Саша (3 pts) vs Тима (3 pts)
+Тима wins 2-0
+3	
+Ильяс (3 pts) vs Даулет (1 pts)
+Ильяс wins 2-1
+4	
+Альтаир (1 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+Ильяс (6 pts) vs Вова (9 pts)
+Вова wins 2-0
+2	
+Данияр (6 pts) vs Саша (3 pts)
+Данияр wins 2-0
+3	
+Альтаир (4 pts) vs Тима (6 pts)
+Draw 1-1
+4	
+Даулет (1 pts) vs --- Bye ---
+Edit

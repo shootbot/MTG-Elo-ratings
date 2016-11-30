@@ -1,0 +1,41 @@
+Round 1
+1	
+андан vs альтаир
+альтаир wins 2-0
+2	
+илька vs саша
+саша wins 2-1
+3	
+даулет vs чампион
+чампион wins 2-1
+Edit
+Round 2
+1	
+альтаир (3 pts) vs чампион (3 pts)
+чампион wins 2-0
+2	
+даулет (0 pts) vs саша (3 pts)
+саша wins 2-1
+3	
+илька (0 pts) vs --- Bye ---
+Edit
+Round 3
+1	
+саша (6 pts) vs чампион (6 pts)
+чампион wins 2-0
+2	
+илька (3 pts) vs альтаир (3 pts)
+альтаир wins 2-1
+3	
+даулет (0 pts) vs --- Bye ---
+Edit
+Round 4
+1	
+илька (3 pts) vs чампион (9 pts)
+чампион wins 2-0
+2	
+альтаир (6 pts) vs саша (6 pts)
+саша wins 2-0
+3	
+даулет (3 pts) vs --- Bye ---
+Edit

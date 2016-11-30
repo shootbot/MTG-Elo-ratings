@@ -1,0 +1,68 @@
+Round 1
+1	
+Dark vs Spawn
+Dark wins 2-0
+2	
+Arman vs Altair
+Draw 1-1
+3	
+Dauren2 vs Il'ka
+Dauren2 wins 2-1
+4	
+Timba vs Dauren
+Dauren wins 2-1
+5	
+Alex vs Daulet
+Alex wins 2-1
+Edit
+Round 2
+1	
+Dauren2 (3 pts) vs Dauren (3 pts)
+Dauren wins 2-0
+2	
+Dark (3 pts) vs Alex (3 pts)
+Dark wins 2-0
+3	
+Altair (1 pts) vs Il'ka (0 pts)
+Il'ka wins 2-0
+4	
+Arman (1 pts) vs Daulet (0 pts)
+Draw 1-1
+5	
+Timba (0 pts) vs Spawn (0 pts)
+Timba wins 2-0
+Edit
+Round 3
+1	
+Dark (6 pts) vs Dauren (6 pts)
+Dark wins 2-0
+2	
+Dauren2 (3 pts) vs Timba (3 pts)
+Timba wins 2-0
+3	
+Alex (3 pts) vs Il'ka (3 pts)
+Draw 1-1
+4	
+Arman (2 pts) vs Spawn (0 pts)
+Spawn wins 2-0
+5	
+Altair (1 pts) vs Daulet (1 pts)
+Altair wins 2-1
+Edit
+Round 4
+1	
+Dark (9 pts) vs Timba (6 pts)
+Timba wins 1-0
+2	
+Il'ka (4 pts) vs Dauren (6 pts)
+Dauren wins 2-1
+3	
+Alex (4 pts) vs Altair (4 pts)
+Altair wins 2-0
+4	
+Spawn (3 pts) vs Daulet (1 pts)
+Spawn wins 2-0
+5	
+Arman (2 pts) vs Dauren2 (3 pts)
+Dauren2 wins 2-1
+Edit
